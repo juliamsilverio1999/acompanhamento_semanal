@@ -1,0 +1,322 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2026-06-15",
+    "real": "30.800000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 28,
+      "semana_iso": 25,
+      "controle_fundacao_sem_estacas": "18.935700",
+      "controle_estrutura": "5.922832",
+      "controle_total_executado": "24.858532"
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2026-06-22",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 29,
+      "semana_iso": 26,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "0.000000",
+      "controle_total_executado": "0.000000"
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2026-06-29",
+    "real": "4.212000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 30,
+      "semana_iso": 27,
+      "controle_fundacao_sem_estacas": "3.240000",
+      "controle_estrutura": "0.000000",
+      "controle_total_executado": "3.240000"
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2026-07-06",
+    "real": "11.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 31,
+      "semana_iso": 28,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "8.076800",
+      "controle_total_executado": "8.076800"
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2026-07-13",
+    "real": "6.500000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 32,
+      "semana_iso": 29,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "0.458400",
+      "controle_total_executado": "0.458400"
+    }
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2026-07-20",
+    "real": "9.500000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 33,
+      "semana_iso": 30,
+      "controle_fundacao_sem_estacas": "7.680000",
+      "controle_estrutura": "0.000000",
+      "controle_total_executado": "7.680000"
+    }
+  },
+  {
+    "semana": 7,
+    "dia_inicial_semana": "2026-07-27",
+    "real": "44.393015",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 34,
+      "semana_iso": 31,
+      "controle_fundacao_sem_estacas": "17.014973",
+      "controle_estrutura": "14.310000",
+      "controle_total_executado": "31.324973"
+    }
+  },
+  {
+    "semana": 8,
+    "dia_inicial_semana": "2026-08-03",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 35,
+      "semana_iso": 32,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "0.000000",
+      "controle_total_executado": "0.000000"
+    }
+  },
+  {
+    "semana": 9,
+    "dia_inicial_semana": "2026-08-10",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 36,
+      "semana_iso": 33,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "0.000000",
+      "controle_total_executado": "0.000000"
+    }
+  },
+  {
+    "semana": 10,
+    "dia_inicial_semana": "2026-08-17",
+    "real": "201.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 37,
+      "semana_iso": 34,
+      "controle_fundacao_sem_estacas": "0.277500",
+      "controle_estrutura": "171.191409",
+      "controle_total_executado": "171.468909"
+    }
+  },
+  {
+    "semana": 11,
+    "dia_inicial_semana": "2026-08-24",
+    "real": "8.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 38,
+      "semana_iso": 35,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "4.894000",
+      "controle_total_executado": "4.894000"
+    }
+  },
+  {
+    "semana": 12,
+    "dia_inicial_semana": "2026-08-31",
+    "real": "12.720000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 39,
+      "semana_iso": 36,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "12.394866",
+      "controle_total_executado": "12.394866"
+    }
+  },
+  {
+    "semana": 13,
+    "dia_inicial_semana": "2026-09-07",
+    "real": "17.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 40,
+      "semana_iso": 37,
+      "controle_fundacao_sem_estacas": "9.603355",
+      "controle_estrutura": "14.296950",
+      "controle_total_executado": "23.900305"
+    }
+  },
+  {
+    "semana": 14,
+    "dia_inicial_semana": "2026-09-14",
+    "real": "102.480000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 41,
+      "semana_iso": 38,
+      "controle_fundacao_sem_estacas": "0.832500",
+      "controle_estrutura": "89.041300",
+      "controle_total_executado": "89.873800"
+    }
+  },
+  {
+    "semana": 15,
+    "dia_inicial_semana": "2026-09-21",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 42,
+      "semana_iso": 39,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "0.000000",
+      "controle_total_executado": "0.000000"
+    }
+  },
+  {
+    "semana": 16,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "53.262000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 43,
+      "semana_iso": 40,
+      "controle_fundacao_sem_estacas": "18.311855",
+      "controle_estrutura": "35.009250",
+      "controle_total_executado": "53.321105"
+    }
+  },
+  {
+    "semana": 17,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 44,
+      "semana_iso": 41,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "3.840000",
+      "controle_total_executado": "3.840000"
+    }
+  },
+  {
+    "semana": 18,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "36.270000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 45,
+      "semana_iso": 42,
+      "controle_fundacao_sem_estacas": "4.310400",
+      "controle_estrutura": "35.483680",
+      "controle_total_executado": "39.794080"
+    }
+  },
+  {
+    "semana": 19,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "64.420000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 46,
+      "semana_iso": 43,
+      "controle_fundacao_sem_estacas": "15.432520",
+      "controle_estrutura": "74.360000",
+      "controle_total_executado": "89.792520"
+    }
+  },
+  {
+    "semana": 20,
+    "dia_inicial_semana": "2026-10-26",
+    "real": "87.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Concreto",
+      "linha": 47,
+      "semana_iso": 44,
+      "controle_fundacao_sem_estacas": "0.000000",
+      "controle_estrutura": "68.532210",
+      "controle_total_executado": "68.532210"
+    }
+  }
+]

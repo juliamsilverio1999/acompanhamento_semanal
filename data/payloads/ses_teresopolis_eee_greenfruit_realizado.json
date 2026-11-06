@@ -1,0 +1,338 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2026-06-01",
+    "real": "7.141732",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "B",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "7.141732",
+        "Replanejado Set/26": "7.141732"
+      }
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2026-06-08",
+    "real": "26.716535",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "C",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "26.716535",
+        "Replanejado Set/26": "26.716535"
+      }
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2026-06-15",
+    "real": "2.341732",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "D",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.341732",
+        "Replanejado Set/26": "2.341732"
+      }
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2026-06-22",
+    "real": "0.950000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "E",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.950000",
+        "Replanejado Set/26": "0.950000"
+      }
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2026-06-29",
+    "real": "0.950000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "F",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.950000",
+        "Replanejado Set/26": "0.950000"
+      }
+    }
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2026-07-06",
+    "real": "0.950000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "G",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.950000",
+        "Replanejado Set/26": "0.950000"
+      }
+    }
+  },
+  {
+    "semana": 7,
+    "dia_inicial_semana": "2026-07-13",
+    "real": "0.950000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "H",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.950000",
+        "Replanejado Set/26": "0.950000"
+      }
+    }
+  },
+  {
+    "semana": 8,
+    "dia_inicial_semana": "2026-07-20",
+    "real": "14.857143",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "I",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "14.857143",
+        "Replanejado Set/26": "14.857143"
+      }
+    }
+  },
+  {
+    "semana": 9,
+    "dia_inicial_semana": "2026-07-27",
+    "real": "8.440000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "J",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "7.000000",
+        "Replanejado Set/26": "8.440000"
+      }
+    }
+  },
+  {
+    "semana": 10,
+    "dia_inicial_semana": "2026-08-03",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "K",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "7.028571",
+        "Replanejado Set/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 11,
+    "dia_inicial_semana": "2026-08-10",
+    "real": "0.700000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "L",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "12.028571",
+        "Replanejado Set/26": "0.700000"
+      }
+    }
+  },
+  {
+    "semana": 12,
+    "dia_inicial_semana": "2026-08-17",
+    "real": "12.500000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "M",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.528571",
+        "Replanejado Set/26": "12.500000"
+      }
+    }
+  },
+  {
+    "semana": 13,
+    "dia_inicial_semana": "2026-08-24",
+    "real": "4.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "N",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "5.028571",
+        "Replanejado Set/26": "4.000000"
+      }
+    }
+  },
+  {
+    "semana": 14,
+    "dia_inicial_semana": "2026-08-31",
+    "real": "4.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "O",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.500000",
+        "Replanejado Set/26": "1.800000"
+      }
+    }
+  },
+  {
+    "semana": 15,
+    "dia_inicial_semana": "2026-09-07",
+    "real": "1.250000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "P",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.000000",
+        "Replanejado Set/26": "1.800000"
+      }
+    }
+  },
+  {
+    "semana": 16,
+    "dia_inicial_semana": "2026-09-14",
+    "real": "0.850000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "Q",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.333333",
+        "Replanejado Set/26": "2.800000"
+      }
+    }
+  },
+  {
+    "semana": 17,
+    "dia_inicial_semana": "2026-09-21",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "R",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.333333",
+        "Replanejado Set/26": "4.050000"
+      }
+    }
+  },
+  {
+    "semana": 18,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "0.400000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "S",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000",
+        "Replanejado Set/26": "4.050000"
+      }
+    }
+  },
+  {
+    "semana": 19,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "1.500000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "T",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000",
+        "Replanejado Set/26": "2.000000"
+      }
+    }
+  },
+  {
+    "semana": 20,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "4.750000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "U",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000",
+        "Replanejado Set/26": "2.000000"
+      }
+    }
+  },
+  {
+    "semana": 21,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "0.550000",
+    "equipe": null,
+    "justificativa": "Justificativa: Serviço da Oficina ao lado em fase de acabamento o que ocasionou o atraso das atividades. A parte civil da sala elétrica teve um avanço considerável, ficando pendente apenas a instalação do portão de acesso.\nPlano de ação: Replanejamento das atividades.\nOBS: Na Elevatória Golfe e Greenfruit está pendente a finalização da rede elétrica.",
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GREENFRUIT",
+      "coluna": "V",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000",
+        "Replanejado Set/26": "0.000000"
+      }
+    }
+  }
+]

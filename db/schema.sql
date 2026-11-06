@@ -1,6 +1,6 @@
 -- Gerado por scripts/init_db.py a partir de app/models.py. Não editar à mão.
 
-CREATE TYPE unidade_medida AS ENUM ('m', 'm2', 'm3', 'kg', 't', 'un', 'vb', 'h');
+CREATE TYPE unidade_medida AS ENUM ('m', 'm2', 'm3', 'kg', 't', 'un', 'vb', 'h', '%%');
 
 CREATE TABLE atividades (
 	id UUID NOT NULL, 
@@ -43,7 +43,7 @@ CREATE TABLE produtividade_base_obra_atividade_semana (
 	semana INTEGER NOT NULL, 
 	dia_inicial_semana DATE NOT NULL, 
 	previsto_semana NUMERIC(18, 6) NOT NULL, 
-	prod_orcada_media_equipe_dia NUMERIC(18, 6) DEFAULT '1' NOT NULL, 
+	prod_orcada_media_equipe_dia NUMERIC(18, 6), 
 	criado_em TIMESTAMP WITH TIME ZONE DEFAULT now() NOT NULL, 
 	atualizado_em TIMESTAMP WITH TIME ZONE DEFAULT now() NOT NULL, 
 	PRIMARY KEY (id), 
@@ -62,7 +62,7 @@ CREATE TABLE dados_obra_atividade (
 	previsto_acumulado NUMERIC(18, 6) NOT NULL, 
 	real_acumulado NUMERIC(18, 6) NOT NULL, 
 	delta_acumulado NUMERIC(18, 6) NOT NULL, 
-	equipe INTEGER NOT NULL, 
+	equipe NUMERIC(18, 6), 
 	prod_media_equipe_dia NUMERIC(18, 6), 
 	indice_produtividade NUMERIC(18, 6), 
 	justificativa TEXT, 
@@ -70,7 +70,6 @@ CREATE TABLE dados_obra_atividade (
 	criado_em TIMESTAMP WITH TIME ZONE DEFAULT now() NOT NULL, 
 	atualizado_em TIMESTAMP WITH TIME ZONE DEFAULT now() NOT NULL, 
 	PRIMARY KEY (id), 
-	CONSTRAINT ck_dados_real CHECK (real >= 0), 
 	CONSTRAINT ck_dados_equipe CHECK (equipe >= 0), 
 	UNIQUE (produtividade_base_obra_atividade_semana_id), 
 	FOREIGN KEY(produtividade_base_obra_atividade_semana_id) REFERENCES produtividade_base_obra_atividade_semana (id)

@@ -1,0 +1,85 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "114536.443615",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "AÇO",
+      "coluna": "B:C",
+      "unidade_origem": "t",
+      "saldo_abertura": {
+        "Acm até 31/08": "91702.707785",
+        "Set/26": "22833.735830"
+      }
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "5400.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "AÇO",
+      "coluna": "D",
+      "unidade_origem": "t",
+      "periodo": "01/10 a 10/10"
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "300.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "AÇO",
+      "coluna": "E",
+      "unidade_origem": "t"
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "13690.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "AÇO",
+      "coluna": "F",
+      "unidade_origem": "t"
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2026-10-26",
+    "real": "8144.128000",
+    "equipe": null,
+    "justificativa": "Na linha de previsto a distribuição foi feita linear de acordo com o cronograma físico, pois não tinhamos um cronograma de suprimentos ou específico de montagem de armação dividido em semanas.\nNo real, antecipamos a compra do aço da obra para garantir o melhor preço, visto que teríamos espaço para armazenamento, e dividimos a montagem entre subempreiteiro e equipe própria. Por conta disso, o real ficou bastante diferente do previsto no creonograma inicial RI.",
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "AÇO",
+      "coluna": "G",
+      "unidade_origem": "t"
+    }
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2026-11-02",
+    "real": "200.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "AÇO",
+      "coluna": "H",
+      "unidade_origem": "t"
+    }
+  }
+]

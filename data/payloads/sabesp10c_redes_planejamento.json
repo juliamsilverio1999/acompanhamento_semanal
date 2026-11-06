@@ -1,0 +1,782 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2025-06-09",
+    "previsto_semana": "6.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2025-06-16",
+    "previsto_semana": "18.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2025-06-23",
+    "previsto_semana": "25.680000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2025-06-30",
+    "previsto_semana": "31.300000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2025-07-07",
+    "previsto_semana": "30.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2025-07-14",
+    "previsto_semana": "51.510000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 7,
+    "dia_inicial_semana": "2025-07-21",
+    "previsto_semana": "113.210000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 8,
+    "dia_inicial_semana": "2025-07-28",
+    "previsto_semana": "25.680000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 9,
+    "dia_inicial_semana": "2025-08-04",
+    "previsto_semana": "36.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 10,
+    "dia_inicial_semana": "2025-08-11",
+    "previsto_semana": "45.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 11,
+    "dia_inicial_semana": "2025-08-18",
+    "previsto_semana": "91.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 12,
+    "dia_inicial_semana": "2025-08-25",
+    "previsto_semana": "149.930000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 13,
+    "dia_inicial_semana": "2025-09-01",
+    "previsto_semana": "20.590000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 14,
+    "dia_inicial_semana": "2025-09-08",
+    "previsto_semana": "164.800000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 15,
+    "dia_inicial_semana": "2025-09-15",
+    "previsto_semana": "103.200000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 16,
+    "dia_inicial_semana": "2025-09-22",
+    "previsto_semana": "172.410000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 17,
+    "dia_inicial_semana": "2025-09-29",
+    "previsto_semana": "100.240000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 18,
+    "dia_inicial_semana": "2025-10-06",
+    "previsto_semana": "24.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 19,
+    "dia_inicial_semana": "2025-10-13",
+    "previsto_semana": "31.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 20,
+    "dia_inicial_semana": "2025-10-20",
+    "previsto_semana": "163.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 21,
+    "dia_inicial_semana": "2025-10-27",
+    "previsto_semana": "161.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 22,
+    "dia_inicial_semana": "2025-11-03",
+    "previsto_semana": "228.550000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 23,
+    "dia_inicial_semana": "2025-11-10",
+    "previsto_semana": "259.394905",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 24,
+    "dia_inicial_semana": "2025-11-17",
+    "previsto_semana": "78.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 25,
+    "dia_inicial_semana": "2025-11-24",
+    "previsto_semana": "133.610000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 26,
+    "dia_inicial_semana": "2025-12-01",
+    "previsto_semana": "266.330000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 27,
+    "dia_inicial_semana": "2025-12-08",
+    "previsto_semana": "113.140000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 28,
+    "dia_inicial_semana": "2025-12-15",
+    "previsto_semana": "114.820000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 29,
+    "dia_inicial_semana": "2025-12-22",
+    "previsto_semana": "0.000000",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 30,
+    "dia_inicial_semana": "2025-12-29",
+    "previsto_semana": "66.545236",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 31,
+    "dia_inicial_semana": "2026-01-05",
+    "previsto_semana": "99.817855",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 32,
+    "dia_inicial_semana": "2026-01-12",
+    "previsto_semana": "83.181545",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 33,
+    "dia_inicial_semana": "2026-01-19",
+    "previsto_semana": "83.181545",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 34,
+    "dia_inicial_semana": "2026-01-26",
+    "previsto_semana": "83.181545",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 35,
+    "dia_inicial_semana": "2026-02-02",
+    "previsto_semana": "103.569180",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 36,
+    "dia_inicial_semana": "2026-02-09",
+    "previsto_semana": "103.569180",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 37,
+    "dia_inicial_semana": "2026-02-16",
+    "previsto_semana": "103.569180",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 38,
+    "dia_inicial_semana": "2026-02-23",
+    "previsto_semana": "103.569180",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 39,
+    "dia_inicial_semana": "2026-03-02",
+    "previsto_semana": "134.132209",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 40,
+    "dia_inicial_semana": "2026-03-09",
+    "previsto_semana": "134.132209",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 41,
+    "dia_inicial_semana": "2026-03-16",
+    "previsto_semana": "134.132209",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 42,
+    "dia_inicial_semana": "2026-03-23",
+    "previsto_semana": "134.132209",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 43,
+    "dia_inicial_semana": "2026-03-30",
+    "previsto_semana": "145.356136",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 44,
+    "dia_inicial_semana": "2026-04-06",
+    "previsto_semana": "152.838755",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 45,
+    "dia_inicial_semana": "2026-04-13",
+    "previsto_semana": "152.838755",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 46,
+    "dia_inicial_semana": "2026-04-20",
+    "previsto_semana": "152.838755",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 47,
+    "dia_inicial_semana": "2026-04-27",
+    "previsto_semana": "154.347228",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 48,
+    "dia_inicial_semana": "2026-05-04",
+    "previsto_semana": "160.381124",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 49,
+    "dia_inicial_semana": "2026-05-11",
+    "previsto_semana": "160.381124",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 50,
+    "dia_inicial_semana": "2026-05-18",
+    "previsto_semana": "160.381124",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 51,
+    "dia_inicial_semana": "2026-05-25",
+    "previsto_semana": "160.381124",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 52,
+    "dia_inicial_semana": "2026-06-01",
+    "previsto_semana": "204.868982",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 53,
+    "dia_inicial_semana": "2026-06-08",
+    "previsto_semana": "204.868982",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 54,
+    "dia_inicial_semana": "2026-06-15",
+    "previsto_semana": "204.868982",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 55,
+    "dia_inicial_semana": "2026-06-22",
+    "previsto_semana": "204.868982",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 56,
+    "dia_inicial_semana": "2026-06-29",
+    "previsto_semana": "219.518723",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 57,
+    "dia_inicial_semana": "2026-07-06",
+    "previsto_semana": "229.285217",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 58,
+    "dia_inicial_semana": "2026-07-13",
+    "previsto_semana": "229.285217",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 59,
+    "dia_inicial_semana": "2026-07-20",
+    "previsto_semana": "229.285217",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 60,
+    "dia_inicial_semana": "2026-07-27",
+    "previsto_semana": "229.285217",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 61,
+    "dia_inicial_semana": "2026-08-03",
+    "previsto_semana": "247.094952",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 62,
+    "dia_inicial_semana": "2026-08-10",
+    "previsto_semana": "247.094952",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 63,
+    "dia_inicial_semana": "2026-08-17",
+    "previsto_semana": "247.094952",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 64,
+    "dia_inicial_semana": "2026-08-24",
+    "previsto_semana": "247.094952",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 65,
+    "dia_inicial_semana": "2026-08-31",
+    "previsto_semana": "245.390100",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 66,
+    "dia_inicial_semana": "2026-09-07",
+    "previsto_semana": "244.963886",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 67,
+    "dia_inicial_semana": "2026-09-14",
+    "previsto_semana": "244.963886",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 68,
+    "dia_inicial_semana": "2026-09-21",
+    "previsto_semana": "244.963886",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 69,
+    "dia_inicial_semana": "2026-09-28",
+    "previsto_semana": "241.456686",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 70,
+    "dia_inicial_semana": "2026-10-05",
+    "previsto_semana": "236.195886",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 71,
+    "dia_inicial_semana": "2026-10-12",
+    "previsto_semana": "236.195886",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 72,
+    "dia_inicial_semana": "2026-10-19",
+    "previsto_semana": "236.195886",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 73,
+    "dia_inicial_semana": "2026-10-26",
+    "previsto_semana": "236.195886",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 74,
+    "dia_inicial_semana": "2026-11-02",
+    "previsto_semana": "222.062738",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 75,
+    "dia_inicial_semana": "2026-11-09",
+    "previsto_semana": "222.062738",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 76,
+    "dia_inicial_semana": "2026-11-16",
+    "previsto_semana": "222.062738",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 77,
+    "dia_inicial_semana": "2026-11-23",
+    "previsto_semana": "222.062738",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 78,
+    "dia_inicial_semana": "2026-11-30",
+    "previsto_semana": "187.050235",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 79,
+    "dia_inicial_semana": "2026-12-07",
+    "previsto_semana": "178.297109",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 80,
+    "dia_inicial_semana": "2026-12-14",
+    "previsto_semana": "178.297109",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 81,
+    "dia_inicial_semana": "2026-12-21",
+    "previsto_semana": "178.297109",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 82,
+    "dia_inicial_semana": "2026-12-28",
+    "previsto_semana": "184.719877",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 83,
+    "dia_inicial_semana": "2027-01-04",
+    "previsto_semana": "210.410952",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 84,
+    "dia_inicial_semana": "2027-01-11",
+    "previsto_semana": "210.410952",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 85,
+    "dia_inicial_semana": "2027-01-18",
+    "previsto_semana": "210.410952",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 86,
+    "dia_inicial_semana": "2027-01-25",
+    "previsto_semana": "210.410952",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 87,
+    "dia_inicial_semana": "2027-02-01",
+    "previsto_semana": "244.861625",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 88,
+    "dia_inicial_semana": "2027-02-08",
+    "previsto_semana": "244.861625",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 89,
+    "dia_inicial_semana": "2027-02-15",
+    "previsto_semana": "244.861625",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 90,
+    "dia_inicial_semana": "2027-02-22",
+    "previsto_semana": "244.861625",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 91,
+    "dia_inicial_semana": "2027-03-01",
+    "previsto_semana": "212.923152",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 92,
+    "dia_inicial_semana": "2027-03-08",
+    "previsto_semana": "212.923152",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 93,
+    "dia_inicial_semana": "2027-03-15",
+    "previsto_semana": "212.923152",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 94,
+    "dia_inicial_semana": "2027-03-22",
+    "previsto_semana": "212.923152",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 95,
+    "dia_inicial_semana": "2027-03-29",
+    "previsto_semana": "173.453619",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 96,
+    "dia_inicial_semana": "2027-04-05",
+    "previsto_semana": "114.249318",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 97,
+    "dia_inicial_semana": "2027-04-12",
+    "previsto_semana": "114.249318",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 98,
+    "dia_inicial_semana": "2027-04-19",
+    "previsto_semana": "114.249318",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 99,
+    "dia_inicial_semana": "2027-04-26",
+    "previsto_semana": "114.249318",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 100,
+    "dia_inicial_semana": "2027-05-03",
+    "previsto_semana": "57.177143",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 101,
+    "dia_inicial_semana": "2027-05-10",
+    "previsto_semana": "57.177143",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 102,
+    "dia_inicial_semana": "2027-05-17",
+    "previsto_semana": "57.177143",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 103,
+    "dia_inicial_semana": "2027-05-24",
+    "previsto_semana": "57.177143",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 104,
+    "dia_inicial_semana": "2027-05-31",
+    "previsto_semana": "28.532701",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 105,
+    "dia_inicial_semana": "2027-06-07",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 106,
+    "dia_inicial_semana": "2027-06-14",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 107,
+    "dia_inicial_semana": "2027-06-21",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 108,
+    "dia_inicial_semana": "2027-06-28",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 109,
+    "dia_inicial_semana": "2027-07-05",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 110,
+    "dia_inicial_semana": "2027-07-12",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 111,
+    "dia_inicial_semana": "2027-07-19",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 112,
+    "dia_inicial_semana": "2027-07-26",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 113,
+    "dia_inicial_semana": "2027-08-02",
+    "previsto_semana": "24.248636",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 114,
+    "dia_inicial_semana": "2027-08-09",
+    "previsto_semana": "24.248636",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 115,
+    "dia_inicial_semana": "2027-08-16",
+    "previsto_semana": "24.248636",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 116,
+    "dia_inicial_semana": "2027-08-23",
+    "previsto_semana": "24.248636",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 117,
+    "dia_inicial_semana": "2027-08-30",
+    "previsto_semana": "28.933886",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 118,
+    "dia_inicial_semana": "2027-09-06",
+    "previsto_semana": "32.057386",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 119,
+    "dia_inicial_semana": "2027-09-13",
+    "previsto_semana": "32.057386",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 120,
+    "dia_inicial_semana": "2027-09-20",
+    "previsto_semana": "32.057386",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 121,
+    "dia_inicial_semana": "2027-09-27",
+    "previsto_semana": "32.362695",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 122,
+    "dia_inicial_semana": "2027-10-04",
+    "previsto_semana": "33.583929",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 123,
+    "dia_inicial_semana": "2027-10-11",
+    "previsto_semana": "33.583929",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 124,
+    "dia_inicial_semana": "2027-10-18",
+    "previsto_semana": "33.583929",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 125,
+    "dia_inicial_semana": "2027-10-25",
+    "previsto_semana": "33.583929",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 126,
+    "dia_inicial_semana": "2027-11-01",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 127,
+    "dia_inicial_semana": "2027-11-08",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 128,
+    "dia_inicial_semana": "2027-11-15",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 129,
+    "dia_inicial_semana": "2027-11-22",
+    "previsto_semana": "21.371591",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  },
+  {
+    "semana": 130,
+    "dia_inicial_semana": "2027-11-29",
+    "previsto_semana": "8.548636",
+    "prod_orcada_media_equipe_dia": "23.163474"
+  }
+]

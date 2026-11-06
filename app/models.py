@@ -6,6 +6,9 @@ Desvios em relação ao diagrama (discutidos em docs/analise_modelagem.md):
   - DADOS_OBRA_ATIVIDADE 1:1 com a semana base (unique na FK), em vez de 1:N.
   - Constraints de unicidade (cod_obra, obra+atividade, obra_atividade+semana).
   - Colunas de auditoria criado_em / atualizado_em.
+  - prod_orcada_media_equipe_dia opcional e sem padrão 1: vazio = índice não calculado.
+  - equipe decimal e opcional (equipe média da semana; vazio = não informada).
+  - real pode ser negativo (estorno / correção de medição).
 """
 import enum
 import uuid
@@ -43,6 +46,7 @@ class UnidadeMedida(str, enum.Enum):
     UN = "un"
     VB = "vb"
     H = "h"
+    PCT = "%"
 
 
 class AuditoriaMixin:
@@ -117,9 +121,7 @@ class ProdutividadeBaseSemana(AuditoriaMixin, Base):
     semana: Mapped[int]
     dia_inicial_semana: Mapped[date]
     previsto_semana: Mapped[Decimal] = mapped_column(NUM)
-    prod_orcada_media_equipe_dia: Mapped[Decimal] = mapped_column(
-        NUM, default=Decimal("1"), server_default="1"
-    )
+    prod_orcada_media_equipe_dia: Mapped[Optional[Decimal]] = mapped_column(NUM)
 
     obra_atividade: Mapped["ObraAtividade"] = relationship(back_populates="semanas")
     dados: Mapped[Optional["DadosObraAtividade"]] = relationship(
@@ -129,10 +131,7 @@ class ProdutividadeBaseSemana(AuditoriaMixin, Base):
 
 class DadosObraAtividade(AuditoriaMixin, Base):
     __tablename__ = "dados_obra_atividade"
-    __table_args__ = (
-        CheckConstraint("real >= 0", name="ck_dados_real"),
-        CheckConstraint("equipe >= 0", name="ck_dados_equipe"),
-    )
+    __table_args__ = (CheckConstraint("equipe >= 0", name="ck_dados_equipe"),)
 
     id: Mapped[uuid.UUID] = mapped_column(primary_key=True, default=uuid.uuid4)
     produtividade_base_obra_atividade_semana_id: Mapped[uuid.UUID] = mapped_column(
@@ -142,7 +141,7 @@ class DadosObraAtividade(AuditoriaMixin, Base):
     previsto_acumulado: Mapped[Decimal] = mapped_column(NUM)
     real_acumulado: Mapped[Decimal] = mapped_column(NUM)
     delta_acumulado: Mapped[Decimal] = mapped_column(NUM)
-    equipe: Mapped[int]
+    equipe: Mapped[Optional[Decimal]] = mapped_column(NUM)
     prod_media_equipe_dia: Mapped[Optional[Decimal]] = mapped_column(NUM)
     indice_produtividade: Mapped[Optional[Decimal]] = mapped_column(NUM)
     justificativa: Mapped[Optional[str]] = mapped_column(Text)

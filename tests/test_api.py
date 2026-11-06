@@ -83,6 +83,50 @@ def test_justificativa_obrigatoria_abaixo_do_limite(client):
     assert client.put(f"/semanas/{s1}/realizado", json=corpo).status_code == 200
 
 
+def test_sem_prod_orcada_equipe_decimal_e_real_negativo(client):
+    obra = client.post(
+        "/obras", json={"nome": "Obra Y", "cod_obra": "OB8", "uf": "RJ", "cidade": "Rio"}
+    ).json()
+    ativ = client.post("/atividades", json={"nome": "TTS", "unidade_medida": "un"}).json()
+    va = client.post(f"/obras/{obra['id']}/atividades", json={"atividade_id": ativ["id"]}).json()["id"]
+    s1, s2 = [
+        s["id"] for s in client.post(f"/obra-atividades/{va}/semanas", json=[
+            {"semana": 1, "dia_inicial_semana": "2026-10-05", "previsto_semana": "10"},
+            {"semana": 2, "dia_inicial_semana": "2026-10-12", "previsto_semana": "10"},
+        ]).json()
+    ]
+
+    # Sem prod. orçada: índice não é calculado e a justificativa não é exigida
+    r = client.put(f"/semanas/{s1}/realizado", json={
+        "real": "1", "equipe": "3.5", "dado_extra": {"origem": "planilha"},
+    })
+    assert r.status_code == 200, r.text
+    assert r.json()["indice_produtividade"] is None
+    assert D(r.json()["equipe"]) == D("3.5")
+
+    # Equipe ausente e real negativo (estorno)
+    r = client.put(f"/semanas/{s2}/realizado", json={"real": "-0.5"})
+    assert r.status_code == 200, r.text
+    assert r.json()["equipe"] is None and D(r.json()["real_acumulado"]) == D("0.5")
+
+    # Reenviar sem dado_extra (como o formulário) não apaga o que veio da importação
+    r = client.put(f"/semanas/{s1}/realizado", json={"real": "2", "equipe": "3.5"})
+    assert r.json()["dado_extra"] == {"origem": "planilha"}
+
+
+def test_editar_atividade(client):
+    ativ = client.post("/atividades", json={"nome": "Escavação", "unidade_medida": "m3"}).json()
+    r = client.patch(f"/atividades/{ativ['id']}", json={"unidade_medida": "%"})
+    assert r.status_code == 200
+    assert r.json() == {**ativ, "unidade_medida": "%"}
+    r = client.patch(f"/atividades/{ativ['id']}", json={"nome": "Escavação mecânica"})
+    assert r.json()["nome"] == "Escavação mecânica" and r.json()["unidade_medida"] == "%"
+    assert client.patch(f"/atividades/{ativ['id']}", json={"unidade_medida": "km"}).status_code == 422
+    client.post("/atividades", json={"nome": "Reaterro", "unidade_medida": "m3"})
+    dup = client.patch(f"/atividades/{ativ['id']}", json={"nome": "Reaterro"})
+    assert dup.status_code == 409
+
+
 def test_unicidade_e_dia_inicial(client):
     va, _ = _preparar(client)
     dup = client.post(

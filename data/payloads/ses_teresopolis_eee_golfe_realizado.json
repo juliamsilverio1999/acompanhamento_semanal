@@ -1,0 +1,402 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2026-05-04",
+    "real": "4.293930",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "B",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.290000",
+        "Replanejado Set/26": "4.293930"
+      }
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2026-05-11",
+    "real": "3.793930",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "C",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.790000",
+        "Replanejado Set/26": "3.793930"
+      }
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2026-05-18",
+    "real": "7.348243",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "D",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "7.350000",
+        "Replanejado Set/26": "7.348243"
+      }
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2026-05-25",
+    "real": "10.063898",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "E",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "10.060000",
+        "Replanejado Set/26": "10.063898"
+      }
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2026-06-01",
+    "real": "2.562500",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "F",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.560000",
+        "Replanejado Set/26": "2.562500"
+      }
+    }
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2026-06-08",
+    "real": "2.237917",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "G",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.240000",
+        "Replanejado Set/26": "2.237917"
+      }
+    }
+  },
+  {
+    "semana": 7,
+    "dia_inicial_semana": "2026-06-15",
+    "real": "2.237917",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "H",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.240000",
+        "Replanejado Set/26": "2.237917"
+      }
+    }
+  },
+  {
+    "semana": 8,
+    "dia_inicial_semana": "2026-06-22",
+    "real": "2.237917",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "I",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.240000",
+        "Replanejado Set/26": "2.237917"
+      }
+    }
+  },
+  {
+    "semana": 9,
+    "dia_inicial_semana": "2026-06-29",
+    "real": "2.237917",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "J",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.240000",
+        "Replanejado Set/26": "2.237917"
+      }
+    }
+  },
+  {
+    "semana": 10,
+    "dia_inicial_semana": "2026-07-06",
+    "real": "2.237917",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "K",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.240000",
+        "Replanejado Set/26": "2.237917"
+      }
+    }
+  },
+  {
+    "semana": 11,
+    "dia_inicial_semana": "2026-07-13",
+    "real": "2.237917",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "L",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.240000",
+        "Replanejado Set/26": "2.237917"
+      }
+    }
+  },
+  {
+    "semana": 12,
+    "dia_inicial_semana": "2026-07-20",
+    "real": "3.450000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "M",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.450000",
+        "Replanejado Set/26": "3.450000"
+      }
+    }
+  },
+  {
+    "semana": 13,
+    "dia_inicial_semana": "2026-07-27",
+    "real": "3.250000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "N",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000",
+        "Replanejado Set/26": "3.250000"
+      }
+    }
+  },
+  {
+    "semana": 14,
+    "dia_inicial_semana": "2026-08-03",
+    "real": "3.800000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "O",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.730000",
+        "Replanejado Set/26": "3.800000"
+      }
+    }
+  },
+  {
+    "semana": 15,
+    "dia_inicial_semana": "2026-08-10",
+    "real": "4.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "P",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.730000",
+        "Replanejado Set/26": "4.000000"
+      }
+    }
+  },
+  {
+    "semana": 16,
+    "dia_inicial_semana": "2026-08-17",
+    "real": "0.650000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "Q",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.730000",
+        "Replanejado Set/26": "0.650000"
+      }
+    }
+  },
+  {
+    "semana": 17,
+    "dia_inicial_semana": "2026-08-24",
+    "real": "2.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "R",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "6.490000",
+        "Replanejado Set/26": "2.000000"
+      }
+    }
+  },
+  {
+    "semana": 18,
+    "dia_inicial_semana": "2026-08-31",
+    "real": "4.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "S",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "5.880000",
+        "Replanejado Set/26": "5.170000"
+      }
+    }
+  },
+  {
+    "semana": 19,
+    "dia_inicial_semana": "2026-09-07",
+    "real": "0.500000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "T",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.230000",
+        "Replanejado Set/26": "3.170000"
+      }
+    }
+  },
+  {
+    "semana": 20,
+    "dia_inicial_semana": "2026-09-14",
+    "real": "1.400000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "U",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.230000",
+        "Replanejado Set/26": "3.170000"
+      }
+    }
+  },
+  {
+    "semana": 21,
+    "dia_inicial_semana": "2026-09-21",
+    "real": "2.200000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "V",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.230000",
+        "Replanejado Set/26": "5.920000"
+      }
+    }
+  },
+  {
+    "semana": 22,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "2.110000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "W",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.105000",
+        "Replanejado Set/26": "7.520000"
+      }
+    }
+  },
+  {
+    "semana": 23,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "1.050000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "X",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "5.771667",
+        "Replanejado Set/26": "4.266667"
+      }
+    }
+  },
+  {
+    "semana": 24,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "1.960000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "Y",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.566667",
+        "Replanejado Set/26": "2.766667"
+      }
+    }
+  },
+  {
+    "semana": 25,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "1.820000",
+    "equipe": null,
+    "justificativa": "Justificativa: Foi necessário alteração no barrilete de entrada das bombas para facilitar a montagem e possibilitar a manutenção futura, o que acarretou em atraso na execução.\nPlano de ação: Replanejamento das atividades.\nOBS: Na Elevatória Golfe e Greenfruit está pendente a finalização da rede elétrica.",
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_GOLFE",
+      "coluna": "Z",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.566667",
+        "Replanejado Set/26": "4.766667"
+      }
+    }
+  }
+]

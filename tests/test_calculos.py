@@ -21,6 +21,20 @@ def test_sem_prod_orcada_nao_calcula_indice():
     assert indice is None
 
 
+def test_equipe_decimal_e_ausente():
+    prod, _ = calcular_semana(D("70"), D("3.5"), None, 5)
+    assert prod == D("4.000000")
+    assert calcular_semana(D("70"), None, D("4"), 5) == (None, None)
+
+
+def test_real_negativo_reduz_acumulado():
+    serie = calcular_serie(
+        [SemanaEntrada(1, D("100"), None, real=D("100")), SemanaEntrada(2, D("0"), None, real=D("-53"))],
+        dias_trabalhados_semana=5,
+    )
+    assert serie[1].real_acumulado == D("47")
+
+
 def test_serie_acumula_e_trata_semana_sem_apontamento():
     serie = calcular_serie(
         [

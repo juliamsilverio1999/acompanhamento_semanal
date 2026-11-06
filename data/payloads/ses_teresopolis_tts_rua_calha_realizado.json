@@ -1,0 +1,647 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2025-12-29",
+    "real": "8.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "B",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "8.000000"
+      }
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2026-01-05",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "C",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2026-01-12",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "D",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2026-01-19",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "E",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2026-01-26",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "F",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2026-02-02",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "G",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 7,
+    "dia_inicial_semana": "2026-02-09",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "H",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 8,
+    "dia_inicial_semana": "2026-02-16",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "I",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 9,
+    "dia_inicial_semana": "2026-02-23",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "J",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 10,
+    "dia_inicial_semana": "2026-03-02",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "K",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 11,
+    "dia_inicial_semana": "2026-03-09",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "L",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 12,
+    "dia_inicial_semana": "2026-03-16",
+    "real": "3.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "M",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.000000"
+      }
+    }
+  },
+  {
+    "semana": 13,
+    "dia_inicial_semana": "2026-03-23",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "N",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 14,
+    "dia_inicial_semana": "2026-03-30",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "O",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 15,
+    "dia_inicial_semana": "2026-04-06",
+    "real": "2.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "P",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.000000"
+      }
+    }
+  },
+  {
+    "semana": 16,
+    "dia_inicial_semana": "2026-04-13",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "Q",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 17,
+    "dia_inicial_semana": "2026-04-20",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "R",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 18,
+    "dia_inicial_semana": "2026-04-27",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "S",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 19,
+    "dia_inicial_semana": "2026-05-04",
+    "real": "2.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "T",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.000000"
+      }
+    }
+  },
+  {
+    "semana": 20,
+    "dia_inicial_semana": "2026-05-11",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "U",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 21,
+    "dia_inicial_semana": "2026-05-18",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "V",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 22,
+    "dia_inicial_semana": "2026-05-25",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "W",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 23,
+    "dia_inicial_semana": "2026-06-01",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "X",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 24,
+    "dia_inicial_semana": "2026-06-08",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "Y",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 25,
+    "dia_inicial_semana": "2026-06-15",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "Z",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 26,
+    "dia_inicial_semana": "2026-06-22",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AA",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 27,
+    "dia_inicial_semana": "2026-06-29",
+    "real": "3.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AB",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.000000"
+      }
+    }
+  },
+  {
+    "semana": 28,
+    "dia_inicial_semana": "2026-07-06",
+    "real": "3.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AC",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.000000"
+      }
+    }
+  },
+  {
+    "semana": 29,
+    "dia_inicial_semana": "2026-07-13",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AD",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 30,
+    "dia_inicial_semana": "2026-07-20",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AE",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 31,
+    "dia_inicial_semana": "2026-07-27",
+    "real": "3.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AF",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.000000"
+      }
+    }
+  },
+  {
+    "semana": 32,
+    "dia_inicial_semana": "2026-08-03",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AG",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 33,
+    "dia_inicial_semana": "2026-08-10",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AH",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 34,
+    "dia_inicial_semana": "2026-08-17",
+    "real": "2.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AI",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 35,
+    "dia_inicial_semana": "2026-08-24",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AJ",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 36,
+    "dia_inicial_semana": "2026-08-31",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AK",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 37,
+    "dia_inicial_semana": "2026-09-07",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AL",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 38,
+    "dia_inicial_semana": "2026-09-14",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AM",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 39,
+    "dia_inicial_semana": "2026-09-21",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AN",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 40,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AO",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 41,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AP",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 42,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AQ",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 43,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": "Plano de ação: Aguardando liberação da TTS 26, TTS 93 e TTS 114 que estão em análise.",
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "TTS_RUA+CALHA",
+      "coluna": "AR",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.000000"
+      }
+    }
+  }
+]

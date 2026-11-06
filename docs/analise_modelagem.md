@@ -11,6 +11,9 @@ Pontos levantados ao implementar o diagrama. Cada item diz o que foi feito no c�
 | 1.3 | Falta de unicidade | Daria para duplicar obra, vínculo obra × atividade e semana. | `unique(cod_obra)`, `unique(obra_id, atividade_id)`, `unique(obra_atividade_id, semana)` e `unique(obra_atividade_id, dia_inicial_semana)` |
 | 1.4 | Auditoria | Sem rastreio de quando o registro mudou. | `criado_em` / `atualizado_em`. No Dataverse isso já vem nativo, com *created by/modified by*. |
 | 1.5 | `UF` | Só a convenção de maiúsculas. | `CHECK` de maiúscula com 2 caracteres; a API converte automaticamente. |
+| 1.6 | `prod_orcada_media_equipe_dia` padrão 1 | Atividades sem produtividade orçada (TTS, EEE em %) ganhavam um índice falso. | Opcional e sem padrão: vazio = índice não calculado e justificativa não exigida (SES Teresópolis, 03/11/2026). |
+| 1.7 | `equipe` int obrigatória | A obra registra equipe **média** da semana (3,5; 4,33), e TTS/EEE não têm equipe. | `numeric(18,6)` opcional: vazio = não informada. |
+| 1.8 | `real >= 0` | Estornos/correções de medição (Rede Teresópolis, −53 m em 28/09/2026). | Real pode ser negativo. |
 
 ## 2. Decisões de regra de negócio (precisam de validação)
 

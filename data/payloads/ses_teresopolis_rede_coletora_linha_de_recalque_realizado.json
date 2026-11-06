@@ -1,0 +1,1149 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2025-08-18",
+    "real": "53.500000",
+    "equipe": "1.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "B",
+      "equipe_prevista": 1,
+      "dias_trabalhados_real": 4,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "52.000000",
+        "Replanejado Jul/26": "53.500000",
+        "Replanejado Set/26": "53.500000"
+      }
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2025-08-25",
+    "real": "75.000000",
+    "equipe": "1.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "C",
+      "equipe_prevista": 1,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "75.000000",
+        "Replanejado Jul/26": "75.000000",
+        "Replanejado Set/26": "75.000000"
+      }
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2025-09-01",
+    "real": "328.500000",
+    "equipe": "3.500000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "D",
+      "equipe_prevista": 3.5,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "328.500000",
+        "Replanejado Jul/26": "328.500000",
+        "Replanejado Set/26": "328.500000"
+      }
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2025-09-08",
+    "real": "152.000000",
+    "equipe": "3.500000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "E",
+      "equipe_prevista": 3.5,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "152.000000",
+        "Replanejado Jul/26": "152.000000",
+        "Replanejado Set/26": "152.000000"
+      }
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2025-09-15",
+    "real": "403.400000",
+    "equipe": "4.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "F",
+      "equipe_prevista": 4,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "403.400000",
+        "Replanejado Jul/26": "403.400000",
+        "Replanejado Set/26": "403.400000"
+      }
+    }
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2025-09-22",
+    "real": "343.000000",
+    "equipe": "4.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "G",
+      "equipe_prevista": 4,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "343.000000",
+        "Replanejado Jul/26": "343.000000",
+        "Replanejado Set/26": "343.000000"
+      }
+    }
+  },
+  {
+    "semana": 7,
+    "dia_inicial_semana": "2025-09-29",
+    "real": "416.000000",
+    "equipe": "4.330000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "H",
+      "equipe_prevista": 4,
+      "dias_trabalhados_real": 4,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "296.000000",
+        "Replanejado Jul/26": "416.000000",
+        "Replanejado Set/26": "416.000000"
+      }
+    }
+  },
+  {
+    "semana": 8,
+    "dia_inicial_semana": "2025-10-06",
+    "real": "316.000000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "I",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "292.500000",
+        "Replanejado Jul/26": "316.000000",
+        "Replanejado Set/26": "316.000000"
+      }
+    }
+  },
+  {
+    "semana": 9,
+    "dia_inicial_semana": "2025-10-13",
+    "real": "313.000000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "J",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "292.500000",
+        "Replanejado Jul/26": "313.000000",
+        "Replanejado Set/26": "313.000000"
+      }
+    }
+  },
+  {
+    "semana": 10,
+    "dia_inicial_semana": "2025-10-20",
+    "real": "159.000000",
+    "equipe": "4.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "K",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 4,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "292.500000",
+        "Replanejado Jul/26": "159.000000",
+        "Replanejado Set/26": "159.000000"
+      }
+    }
+  },
+  {
+    "semana": 11,
+    "dia_inicial_semana": "2025-10-27",
+    "real": "215.600000",
+    "equipe": "3.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "L",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "292.500000",
+        "Replanejado Jul/26": "215.600000",
+        "Replanejado Set/26": "215.600000"
+      }
+    }
+  },
+  {
+    "semana": 12,
+    "dia_inicial_semana": "2025-11-03",
+    "real": "510.400000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "M",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "243.750000",
+        "Replanejado Jul/26": "510.400000",
+        "Replanejado Set/26": "510.400000"
+      }
+    }
+  },
+  {
+    "semana": 13,
+    "dia_inicial_semana": "2025-11-10",
+    "real": "68.600000",
+    "equipe": "2.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "N",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "243.750000",
+        "Replanejado Jul/26": "68.600000",
+        "Replanejado Set/26": "68.600000"
+      }
+    }
+  },
+  {
+    "semana": 14,
+    "dia_inicial_semana": "2025-11-17",
+    "real": "449.500000",
+    "equipe": "4.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "O",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 7,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "243.750000",
+        "Replanejado Jul/26": "449.500000",
+        "Replanejado Set/26": "449.500000"
+      }
+    }
+  },
+  {
+    "semana": 15,
+    "dia_inicial_semana": "2025-11-24",
+    "real": "377.000000",
+    "equipe": "4.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "P",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "243.750000",
+        "Replanejado Jul/26": "377.000000",
+        "Replanejado Set/26": "377.000000"
+      }
+    }
+  },
+  {
+    "semana": 16,
+    "dia_inicial_semana": "2025-12-01",
+    "real": "850.500000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "Q",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 6,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "325.000000",
+        "Replanejado Jul/26": "850.500000",
+        "Replanejado Set/26": "850.500000"
+      }
+    }
+  },
+  {
+    "semana": 17,
+    "dia_inicial_semana": "2025-12-08",
+    "real": "601.500000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "R",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 6,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "325.000000",
+        "Replanejado Jul/26": "601.500000",
+        "Replanejado Set/26": "601.500000"
+      }
+    }
+  },
+  {
+    "semana": 18,
+    "dia_inicial_semana": "2025-12-15",
+    "real": "94.500000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "S",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 3,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "325.000000",
+        "Replanejado Jul/26": "94.500000",
+        "Replanejado Set/26": "94.500000"
+      }
+    }
+  },
+  {
+    "semana": 19,
+    "dia_inicial_semana": "2025-12-22",
+    "real": "0.000000",
+    "equipe": "0.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "T",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 0,
+      "previsto_replanejado": {
+        "Replanejado Jul/26": "0.000000",
+        "Replanejado Set/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 20,
+    "dia_inicial_semana": "2025-12-29",
+    "real": "0.000000",
+    "equipe": "0.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "U",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 0,
+      "previsto_replanejado": {
+        "Replanejado Jul/26": "0.000000",
+        "Replanejado Set/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 21,
+    "dia_inicial_semana": "2026-01-05",
+    "real": "257.700000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "V",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 6,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "243.750000",
+        "Replanejado Jul/26": "257.700000",
+        "Replanejado Set/26": "257.700000"
+      }
+    }
+  },
+  {
+    "semana": 22,
+    "dia_inicial_semana": "2026-01-12",
+    "real": "268.500000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "W",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "243.750000",
+        "Replanejado Jul/26": "268.500000",
+        "Replanejado Set/26": "268.500000"
+      }
+    }
+  },
+  {
+    "semana": 23,
+    "dia_inicial_semana": "2026-01-19",
+    "real": "162.000000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "X",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 3,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "243.750000",
+        "Replanejado Jul/26": "162.000000",
+        "Replanejado Set/26": "162.000000"
+      }
+    }
+  },
+  {
+    "semana": 24,
+    "dia_inicial_semana": "2026-01-26",
+    "real": "541.800000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "Y",
+      "equipe_prevista": 5,
+      "dias_trabalhados_real": 6,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "243.750000",
+        "Replanejado Jul/26": "541.800000",
+        "Replanejado Set/26": "541.800000"
+      }
+    }
+  },
+  {
+    "semana": 25,
+    "dia_inicial_semana": "2026-02-02",
+    "real": "244.550000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "Z",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 6,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "390.000000",
+        "Replanejado Jul/26": "244.550000",
+        "Replanejado Set/26": "244.550000"
+      }
+    }
+  },
+  {
+    "semana": 26,
+    "dia_inicial_semana": "2026-02-09",
+    "real": "117.300000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AA",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 4,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "390.000000",
+        "Replanejado Jul/26": "117.300000",
+        "Replanejado Set/26": "117.300000"
+      }
+    }
+  },
+  {
+    "semana": 27,
+    "dia_inicial_semana": "2026-02-16",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AB",
+      "equipe_prevista": 6,
+      "previsto_replanejado": {
+        "Replanejado Jul/26": "0.000000",
+        "Replanejado Set/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 28,
+    "dia_inicial_semana": "2026-02-23",
+    "real": "234.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AC",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "390.000000",
+        "Replanejado Jul/26": "234.000000",
+        "Replanejado Set/26": "234.000000"
+      }
+    }
+  },
+  {
+    "semana": 29,
+    "dia_inicial_semana": "2026-03-02",
+    "real": "144.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AD",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 3,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "280.800000",
+        "Replanejado Jul/26": "144.000000",
+        "Replanejado Set/26": "144.000000"
+      }
+    }
+  },
+  {
+    "semana": 30,
+    "dia_inicial_semana": "2026-03-09",
+    "real": "309.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AE",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 6,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "280.800000",
+        "Replanejado Jul/26": "309.000000",
+        "Replanejado Set/26": "309.000000"
+      }
+    }
+  },
+  {
+    "semana": 31,
+    "dia_inicial_semana": "2026-03-16",
+    "real": "494.500000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AF",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 6,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "280.800000",
+        "Replanejado Jul/26": "494.500000",
+        "Replanejado Set/26": "494.500000"
+      }
+    }
+  },
+  {
+    "semana": 32,
+    "dia_inicial_semana": "2026-03-23",
+    "real": "839.700000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AG",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 6,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "839.700000",
+        "Replanejado Set/26": "839.700000"
+      }
+    }
+  },
+  {
+    "semana": 33,
+    "dia_inicial_semana": "2026-03-30",
+    "real": "461.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AH",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "461.000000",
+        "Replanejado Set/26": "461.000000"
+      }
+    }
+  },
+  {
+    "semana": 34,
+    "dia_inicial_semana": "2026-04-06",
+    "real": "477.600000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AI",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "477.600000",
+        "Replanejado Set/26": "477.600000"
+      }
+    }
+  },
+  {
+    "semana": 35,
+    "dia_inicial_semana": "2026-04-13",
+    "real": "208.640000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AJ",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "208.640000",
+        "Replanejado Set/26": "208.640000"
+      }
+    }
+  },
+  {
+    "semana": 36,
+    "dia_inicial_semana": "2026-04-20",
+    "real": "457.960000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AK",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 3,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "457.960000",
+        "Replanejado Set/26": "457.960000"
+      }
+    }
+  },
+  {
+    "semana": 37,
+    "dia_inicial_semana": "2026-04-27",
+    "real": "154.700000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AL",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 4,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "154.700000",
+        "Replanejado Set/26": "154.700000"
+      }
+    }
+  },
+  {
+    "semana": 38,
+    "dia_inicial_semana": "2026-05-04",
+    "real": "438.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AM",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "438.000000",
+        "Replanejado Set/26": "438.000000"
+      }
+    }
+  },
+  {
+    "semana": 39,
+    "dia_inicial_semana": "2026-05-11",
+    "real": "586.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AN",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "586.000000",
+        "Replanejado Set/26": "586.000000"
+      }
+    }
+  },
+  {
+    "semana": 40,
+    "dia_inicial_semana": "2026-05-18",
+    "real": "161.700000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AO",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 3,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "161.700000",
+        "Replanejado Set/26": "161.700000"
+      }
+    }
+  },
+  {
+    "semana": 41,
+    "dia_inicial_semana": "2026-05-25",
+    "real": "166.000000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AP",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "504.000000",
+        "Replanejado Jul/26": "166.000000",
+        "Replanejado Set/26": "166.000000"
+      }
+    }
+  },
+  {
+    "semana": 42,
+    "dia_inicial_semana": "2026-06-01",
+    "real": "232.500000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AQ",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "232.500000",
+        "Replanejado Set/26": "232.500000"
+      }
+    }
+  },
+  {
+    "semana": 43,
+    "dia_inicial_semana": "2026-06-08",
+    "real": "194.500000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AR",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "194.500000",
+        "Replanejado Set/26": "194.500000"
+      }
+    }
+  },
+  {
+    "semana": 44,
+    "dia_inicial_semana": "2026-06-15",
+    "real": "325.800000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AS",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "325.800000",
+        "Replanejado Set/26": "325.800000"
+      }
+    }
+  },
+  {
+    "semana": 45,
+    "dia_inicial_semana": "2026-06-22",
+    "real": "388.400000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AT",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "388.400000",
+        "Replanejado Set/26": "388.400000"
+      }
+    }
+  },
+  {
+    "semana": 46,
+    "dia_inicial_semana": "2026-06-29",
+    "real": "126.520000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AU",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 4,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "126.520000",
+        "Replanejado Set/26": "126.520000"
+      }
+    }
+  },
+  {
+    "semana": 47,
+    "dia_inicial_semana": "2026-07-06",
+    "real": "222.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AV",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 4,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "222.000000",
+        "Replanejado Set/26": "222.000000"
+      }
+    }
+  },
+  {
+    "semana": 48,
+    "dia_inicial_semana": "2026-07-13",
+    "real": "138.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AW",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "138.000000",
+        "Replanejado Set/26": "138.000000"
+      }
+    }
+  },
+  {
+    "semana": 49,
+    "dia_inicial_semana": "2026-07-20",
+    "real": "200.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AX",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 6,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "124.126000",
+        "Replanejado Set/26": "200.000000"
+      }
+    }
+  },
+  {
+    "semana": 50,
+    "dia_inicial_semana": "2026-07-27",
+    "real": "155.000000",
+    "equipe": "6.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AY",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "124.126000",
+        "Replanejado Set/26": "155.000000"
+      }
+    }
+  },
+  {
+    "semana": 51,
+    "dia_inicial_semana": "2026-08-03",
+    "real": "44.000000",
+    "equipe": "5.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "AZ",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "124.126000",
+        "Replanejado Set/26": "44.000000"
+      }
+    }
+  },
+  {
+    "semana": 52,
+    "dia_inicial_semana": "2026-08-10",
+    "real": "42.000000",
+    "equipe": "3.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BA",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "312.000000",
+        "Replanejado Jul/26": "124.126000",
+        "Replanejado Set/26": "42.000000"
+      }
+    }
+  },
+  {
+    "semana": 53,
+    "dia_inicial_semana": "2026-08-17",
+    "real": "6.000000",
+    "equipe": "2.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BB",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Novo Orçamento Jan/26": "282.000000",
+        "Replanejado Jul/26": "124.126000",
+        "Replanejado Set/26": "6.000000"
+      }
+    }
+  },
+  {
+    "semana": 54,
+    "dia_inicial_semana": "2026-08-24",
+    "real": "18.000000",
+    "equipe": "3.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BC",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Replanejado Set/26": "18.000000"
+      }
+    }
+  },
+  {
+    "semana": 55,
+    "dia_inicial_semana": "2026-08-31",
+    "real": "60.000000",
+    "equipe": "4.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BD",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Replanejado Set/26": "31.126000"
+      }
+    }
+  },
+  {
+    "semana": 56,
+    "dia_inicial_semana": "2026-09-07",
+    "real": "63.000000",
+    "equipe": "3.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BE",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Replanejado Set/26": "31.126000"
+      }
+    }
+  },
+  {
+    "semana": 57,
+    "dia_inicial_semana": "2026-09-14",
+    "real": "12.000000",
+    "equipe": "3.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BF",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Replanejado Set/26": "31.126000"
+      }
+    }
+  },
+  {
+    "semana": 58,
+    "dia_inicial_semana": "2026-09-21",
+    "real": "12.000000",
+    "equipe": "2.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BG",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Replanejado Set/26": "31.126000"
+      }
+    }
+  },
+  {
+    "semana": 59,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "-53.000000",
+    "equipe": "2.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BH",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5,
+      "previsto_replanejado": {
+        "Replanejado Set/26": "31.126000"
+      }
+    }
+  },
+  {
+    "semana": 60,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "6.000000",
+    "equipe": "2.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BI",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 5
+    }
+  },
+  {
+    "semana": 61,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "12.000000",
+    "equipe": "1.000000",
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BJ",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 2
+    }
+  },
+  {
+    "semana": 62,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "0.000000",
+    "equipe": "1.000000",
+    "justificativa": "Justificativa: Não foi possível execução da LR Golfe devido a realização de testes de carga na rede.\nPlano de ação: Previsão de conclusão:\n- 30 m LR Golfe após conclusão da hidromecânica da EE Golfe;\n- 25 m LR Palmeira (31/10).",
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "REDE COLETORA+LR",
+      "coluna": "BK",
+      "equipe_prevista": 6,
+      "dias_trabalhados_real": 1
+    }
+  }
+]

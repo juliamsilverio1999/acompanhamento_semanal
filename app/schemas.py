@@ -33,6 +33,11 @@ class AtividadeIn(BaseModel):
     unidade_medida: UnidadeMedida
 
 
+class AtividadeUpdate(BaseModel):
+    nome: Optional[str] = Field(default=None, min_length=1, max_length=255)
+    unidade_medida: Optional[UnidadeMedida] = None
+
+
 class AtividadeOut(AtividadeIn, ORM):
     id: UUID
 
@@ -51,7 +56,8 @@ class SemanaBaseIn(BaseModel):
     semana: int = Field(ge=1)
     dia_inicial_semana: date
     previsto_semana: Decimal = Field(ge=0)
-    prod_orcada_media_equipe_dia: Decimal = Field(default=Decimal("1"), gt=0)
+    # Vazio = sem produtividade orçada: o índice não é calculado
+    prod_orcada_media_equipe_dia: Optional[Decimal] = Field(default=None, gt=0)
 
 
 class SemanaBaseUpdate(BaseModel):
@@ -66,8 +72,8 @@ class SemanaBaseOut(SemanaBaseIn, ORM):
 
 
 class RealizadoIn(BaseModel):
-    real: Decimal = Field(ge=0)
-    equipe: int = Field(ge=0)
+    real: Decimal  # negativo = estorno / correção de medição
+    equipe: Optional[Decimal] = Field(default=None, ge=0)  # média da semana; vazio = não informada
     justificativa: Optional[str] = None
     dado_extra: Optional[dict] = None
 
@@ -85,7 +91,7 @@ class DadosOut(ORM):
     previsto_acumulado: Decimal
     real_acumulado: Decimal
     delta_acumulado: Decimal
-    equipe: int
+    equipe: Optional[Decimal]
     prod_media_equipe_dia: Optional[Decimal]
     indice_produtividade: Optional[Decimal]
     justificativa: Optional[str]
@@ -99,7 +105,7 @@ class AcompanhamentoOut(BaseModel):
     semana: int
     dia_inicial_semana: date
     previsto_semana: Decimal
-    prod_orcada_media_equipe_dia: Decimal
+    prod_orcada_media_equipe_dia: Optional[Decimal]
     # Calculado na leitura: no modelo atual o acumulado previsto só é gravado
     # em DADOS, então semanas futuras não teriam curva planejada.
     previsto_acumulado_plano: Decimal

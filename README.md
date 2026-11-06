@@ -45,7 +45,16 @@ Para inspecionar com `psql`:
 & "C:\Program Files\PostgreSQL\16\bin\psql.exe" -U acompanhamento_app -d acompanhamento_semanal
 ```
 
-Enquanto a modelagem estiver em discussão, uma mudança em `models.py` é aplicada com `python scripts/init_db.py --reset`, que **apaga os dados**. Quando estabilizar, o próximo passo é adotar migrações (Alembic).
+Mudanças em tabelas que já têm dados vão em `db/migracoes/NNN_descricao.sql` (SQL idempotente), aplicadas em ordem por `python scripts/init_db.py`, junto com valores novos de ENUM. O `--reset` recria tudo e **apaga os dados**. Quando a modelagem estabilizar, o próximo passo é adotar Alembic.
+
+### Importação de planilhas
+
+| Script | Formato da planilha |
+|---|---|
+| `scripts/gerar_payload_planejamento.py` / `gerar_payload_realizado.py` | "PREVISTO X REALIZADO \| Curvas", uma atividade por vez (ex.: Sabesp 10C Poços) |
+| `scripts/gerar_payload_diario.py` | "INDICADORES", aba `DB` diária (ex.: Sabesp 10C Redes) |
+| `scripts/importar_curvas.py` | várias atividades de uma obra, guiado por `data/importacoes/<obra>.json` (ex.: SES Teresópolis) |
+| `scripts/carregar_realizado.py` | carrega um payload de realizado via API |
 
 ## Rodar
 

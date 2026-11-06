@@ -7,7 +7,9 @@ Passos:
   1. Como superusuário (POSTGRES_ADMIN_*): cria o usuário da aplicação
      (POSTGRES_USER) e o database (POSTGRES_DB) tendo esse usuário como dono.
   2. Como usuário da aplicação: cria as tabelas a partir de app/models.py.
-  3. Grava o DDL gerado em db/schema.sql (referência para revisão da modelagem).
+  3. Acrescenta valores novos de ENUM e aplica db/migracoes/*.sql (idempotentes),
+     para ajustar tabelas que já existem sem apagar dados.
+  4. Grava o DDL gerado em db/schema.sql (referência para revisão da modelagem).
 """
 import sys
 from pathlib import Path
@@ -49,6 +51,37 @@ def criar_usuario_e_database() -> None:
     admin.dispose()
 
 
+def sincronizar_enums() -> None:
+    """create_all não altera tipos ENUM que já existem: acrescenta os valores novos."""
+    if engine.dialect.name != "postgresql":
+        return
+    with engine.begin() as conn:
+        for tabela in Base.metadata.sorted_tables:
+            for col in tabela.columns:
+                if not (isinstance(col.type, Enum) and col.type.name):
+                    continue
+                existentes = set(conn.scalars(
+                    text("SELECT e.enumlabel FROM pg_enum e JOIN pg_type t ON t.oid = e.enumtypid "
+                         "WHERE t.typname = :n"), {"n": col.type.name},
+                ))
+                for valor in col.type.enums:
+                    if existentes and valor not in existentes:
+                        literal = valor.replace("'", "''")
+                        conn.execute(text(f"ALTER TYPE {col.type.name} ADD VALUE IF NOT EXISTS '{literal}'"))
+                        print(f"enum {col.type.name}: valor '{valor}' adicionado")
+
+
+def aplicar_migracoes() -> None:
+    """Aplica db/migracoes/*.sql em ordem. Os arquivos devem ser idempotentes:
+    num banco novo o create_all já cria tudo no formato final."""
+    if engine.dialect.name != "postgresql":
+        return
+    for arquivo in sorted((ROOT / "db" / "migracoes").glob("*.sql")):
+        with engine.begin() as conn:
+            conn.exec_driver_sql(arquivo.read_text(encoding="utf-8"))
+        print(f"migração aplicada: {arquivo.name}")
+
+
 def gravar_ddl() -> Path:
     dialect = engine.dialect
     partes = ["-- Gerado por scripts/init_db.py a partir de app/models.py. Não editar à mão.\n"]
@@ -76,5 +109,7 @@ if __name__ == "__main__":
         Base.metadata.drop_all(engine)
         print("tabelas removidas")
     Base.metadata.create_all(engine)
+    sincronizar_enums()
+    aplicar_migracoes()
     print("tabelas:", ", ".join(Base.metadata.tables))
     print("DDL gravado em", gravar_ddl().relative_to(ROOT))

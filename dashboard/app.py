@@ -13,7 +13,7 @@ import streamlit as st  # noqa: E402
 from app.config import settings  # noqa: E402
 
 API = settings.api_base_url.rstrip("/")
-UNIDADES = ["m", "m2", "m3", "kg", "t", "un", "vb", "h"]
+UNIDADES = ["m", "m2", "m3", "kg", "t", "un", "vb", "h", "%"]
 
 st.set_page_config(page_title="Acompanhamento Semanal", layout="wide")
 
@@ -58,6 +58,11 @@ def num(v):
     return None if v is None else float(v)
 
 
+def texto_ou_nulo(v):
+    """Valor da grade para o JSON da API: célula vazia (NaN) vira null."""
+    return None if pd.isna(v) else str(v)
+
+
 def tabela_acompanhamento(linhas):
     registros = []
     for l in linhas:
@@ -70,7 +75,7 @@ def tabela_acompanhamento(linhas):
             "real": num(d.get("real")),
             "real acum.": num(d.get("real_acumulado")),
             "delta acum.": num(d.get("delta_acumulado")),
-            "equipe": d.get("equipe"),
+            "equipe": num(d.get("equipe")),
             "prod. média equipe/dia": num(d.get("prod_media_equipe_dia")),
             "prod. orçada": num(l["prod_orcada_media_equipe_dia"]),
             "índice": num(d.get("indice_produtividade")),
@@ -99,19 +104,24 @@ def pagina_apontamento():
     dados = linha["dados"] or {}
     c1, c2 = st.columns(2)
     c1.metric(f"Previsto na semana ({unidade})", linha["previsto_semana"])
-    c2.metric("Prod. orçada (equipe/dia)", linha["prod_orcada_media_equipe_dia"])
+    c2.metric(
+        "Prod. orçada (equipe/dia)",
+        linha["prod_orcada_media_equipe_dia"] or "- (sem índice)",
+    )
 
     # Sem st.form de propósito: os campos reagem a cada alteração e a prévia
     # do índice aparece antes de salvar (comportamento esperado no Power Apps).
     chave = linha["base_id"]
     real = st.number_input(
-        f"Realizado na semana ({unidade})", min_value=0.0,
-        value=float(dados.get("real") or 0), key=f"real_{chave}",
+        f"Realizado na semana ({unidade})", value=float(dados.get("real") or 0),
+        key=f"real_{chave}", help="Valor negativo = estorno / correção de medição.",
     )
     equipe = st.number_input(
-        "Equipe", min_value=0, step=1, value=int(dados.get("equipe") or 0), key=f"eq_{chave}"
+        "Equipe média da semana", min_value=0.0, step=0.5,
+        value=float(dados["equipe"]) if dados.get("equipe") is not None else None,
+        key=f"eq_{chave}", placeholder="não informada",
     )
-    corpo = {"real": str(real), "equipe": int(equipe)}
+    corpo = {"real": str(real), "equipe": None if equipe is None else str(equipe)}
     previa = api("POST", f"/semanas/{chave}/realizado/previa", json=corpo) or {}
     p1, p2 = st.columns(2)
     p1.metric("Prod. média equipe/dia (prévia)", previa.get("prod_media_equipe_dia") or "-")
@@ -157,7 +167,8 @@ def colunas_planejamento(unidade):
             f"Previsto na semana ({unidade})", min_value=0, step=0.001, required=True
         ),
         "prod_orcada_media_equipe_dia": st.column_config.NumberColumn(
-            f"Prod. orçada equipe/dia ({unidade})", min_value=0.001, step=0.001, required=True
+            f"Prod. orçada equipe/dia ({unidade})", min_value=0.001, step=0.001,
+            help="Vazio = sem produtividade orçada: o índice não é calculado.",
         ),
         "apontada": st.column_config.CheckboxColumn("Apontada"),
     }
@@ -261,7 +272,7 @@ def pagina_planejamento():
     )
     s[f"{estado}_ultimo"] = editado
 
-    pendentes = editado.loc[editado[COLUNAS_VALOR].isna().any(axis=1), "semana"].tolist()
+    pendentes = editado.loc[editado["previsto_semana"].isna(), "semana"].tolist()
     st.caption(
         f"{qtd} semanas · total previsto: {editado['previsto_semana'].sum():,.3f} {unidade}"
     )
@@ -274,7 +285,7 @@ def pagina_planejamento():
                 "semana": int(l.semana),
                 "dia_inicial_semana": l.dia_inicial_semana.isoformat(),
                 "previsto_semana": str(l.previsto_semana),
-                "prod_orcada_media_equipe_dia": str(l.prod_orcada_media_equipe_dia),
+                "prod_orcada_media_equipe_dia": texto_ou_nulo(l.prod_orcada_media_equipe_dia),
             }
             for l in editado.itertuples()
         ]
@@ -295,11 +306,11 @@ def semanas_existentes(vinculo, linhas, unidade):
             "semana": l["semana"],
             "dia_inicial_semana": date.fromisoformat(l["dia_inicial_semana"]),
             "previsto_semana": float(l["previsto_semana"]),
-            "prod_orcada_media_equipe_dia": float(l["prod_orcada_media_equipe_dia"]),
+            "prod_orcada_media_equipe_dia": num(l["prod_orcada_media_equipe_dia"]),
             "apontada": l["dados"] is not None,
         }
         for l in linhas
-    ])
+    ]).astype({col: "float64" for col in COLUNAS_VALOR})
     with st.expander(f"Semanas já planejadas ({len(linhas)})"):
         editado = st.data_editor(
             atual,
@@ -309,13 +320,16 @@ def semanas_existentes(vinculo, linhas, unidade):
             disabled=["semana", "dia_inicial_semana", "apontada"],
             column_config=colunas_planejamento(unidade),
         )
-        alteradas = editado[(editado[COLUNAS_VALOR] != atual[COLUNAS_VALOR]).any(axis=1)]
+        # fillna: NaN != NaN, e prod. orçada vazia não pode contar como alteração
+        alteradas = editado[
+            (editado[COLUNAS_VALOR].fillna(-1) != atual[COLUNAS_VALOR].fillna(-1)).any(axis=1)
+        ]
         st.caption("Alterar o previsto recalcula os acumulados das semanas já apontadas.")
         if st.button("Salvar alterações", disabled=alteradas.empty, key=f"{chave}_salvar"):
             ok = all(
                 api("PATCH", f"/semanas/{l.base_id}", json={
                     "previsto_semana": str(l.previsto_semana),
-                    "prod_orcada_media_equipe_dia": str(l.prod_orcada_media_equipe_dia),
+                    "prod_orcada_media_equipe_dia": texto_ou_nulo(l.prod_orcada_media_equipe_dia),
                 })
                 for l in alteradas.itertuples()
             )
@@ -347,9 +361,13 @@ def pagina_cadastros():
         if st.form_submit_button("Salvar atividade") and api("POST", "/atividades", json=corpo):
             st.success("Atividade criada.")
 
-    st.subheader("Vincular atividade à obra")
     obras = api("GET", "/obras") or []
     atividades = api("GET", "/atividades") or []
+
+    if atividades:
+        editar_atividade(atividades)
+
+    st.subheader("Vincular atividade à obra")
     if obras and atividades:
         with st.form("vinculo"):
             obra = st.selectbox("Obra", obras, format_func=lambda o: f"{o['cod_obra']} - {o['nome']}")
@@ -358,6 +376,35 @@ def pagina_cadastros():
                 "POST", f"/obras/{obra['id']}/atividades", json={"atividade_id": ativ["id"]}
             ):
                 st.success("Vinculado.")
+
+
+def editar_atividade(atividades):
+    s = st.session_state
+    if "aviso_ativ" in s:
+        st.success(s.pop("aviso_ativ"))
+    with st.container(border=True):
+        st.subheader("Editar atividade")
+        # Fora do form: trocar a atividade recarrega nome e unidade atuais
+        ativ = st.selectbox(
+            "Atividade", atividades, key="editar_ativ",
+            format_func=lambda a: f"{a['nome']} ({a['unidade_medida']})",
+        )
+        with st.form(f"editar_ativ_{ativ['id']}"):
+            nome = st.text_input("Nome", value=ativ["nome"])
+            unidade = st.selectbox(
+                "Unidade", UNIDADES, index=UNIDADES.index(ativ["unidade_medida"])
+            )
+            st.caption(
+                "Trocar a unidade muda só o rótulo: os valores já lançados "
+                "(previsto, realizado, prod. orçada) não são convertidos."
+            )
+            if st.form_submit_button("Salvar alterações"):
+                corpo = {"nome": nome.strip(), "unidade_medida": unidade}
+                if corpo == {"nome": ativ["nome"], "unidade_medida": ativ["unidade_medida"]}:
+                    st.info("Nada mudou.")
+                elif api("PATCH", f"/atividades/{ativ['id']}", json=corpo):
+                    s["aviso_ativ"] = f"Atividade '{corpo['nome']}' atualizada ({corpo['unidade_medida']})."
+                    st.rerun()
 
 
 PAGINAS = {

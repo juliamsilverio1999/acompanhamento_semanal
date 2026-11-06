@@ -25,7 +25,7 @@ class SemanaEntrada:
     previsto_semana: Decimal
     prod_orcada_media_equipe_dia: Optional[Decimal]
     real: Optional[Decimal] = None  # None = semana ainda sem apontamento
-    equipe: Optional[int] = None
+    equipe: Optional[Decimal] = None
 
 
 @dataclass(frozen=True)
@@ -40,7 +40,7 @@ class SemanaCalculada:
 
 def calcular_semana(
     real: Optional[Decimal],
-    equipe: Optional[int],
+    equipe: Optional[Decimal],
     prod_orcada_media_equipe_dia: Optional[Decimal],
     dias_trabalhados_semana: int,
 ) -> Tuple[Optional[Decimal], Optional[Decimal]]:

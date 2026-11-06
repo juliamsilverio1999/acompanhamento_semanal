@@ -1,0 +1,562 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2026-03-02",
+    "real": "19.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 28,
+      "semana_iso": 10,
+      "previsto_programacao": 42,
+      "controle_avanco_executadas": 22,
+      "controle_avanco_metros": 346.28
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2026-03-09",
+    "real": "49.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 29,
+      "semana_iso": 11,
+      "previsto_programacao": 54,
+      "controle_avanco_executadas": 53,
+      "controle_avanco_metros": 782.48
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2026-03-16",
+    "real": "113.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 30,
+      "semana_iso": 12,
+      "previsto_programacao": 110,
+      "controle_avanco_executadas": 107,
+      "controle_avanco_metros": 1368.57
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2026-03-23",
+    "real": "100.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 31,
+      "semana_iso": 13,
+      "previsto_programacao": 83,
+      "controle_avanco_executadas": 102,
+      "controle_avanco_metros": 1658.85
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2026-03-30",
+    "real": "17.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 32,
+      "semana_iso": 14,
+      "previsto_programacao": 74,
+      "controle_avanco_executadas": 16,
+      "controle_avanco_metros": 303.24
+    }
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2026-04-06",
+    "real": "34.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 33,
+      "semana_iso": 15,
+      "previsto_programacao": 80,
+      "controle_avanco_executadas": 32,
+      "controle_avanco_metros": 497.74
+    }
+  },
+  {
+    "semana": 7,
+    "dia_inicial_semana": "2026-04-13",
+    "real": "27.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 34,
+      "semana_iso": 16,
+      "previsto_programacao": 73,
+      "controle_avanco_executadas": 25,
+      "controle_avanco_metros": 393.8
+    }
+  },
+  {
+    "semana": 8,
+    "dia_inicial_semana": "2026-04-20",
+    "real": "9.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 35,
+      "semana_iso": 17,
+      "previsto_programacao": 48,
+      "controle_avanco_executadas": 10,
+      "controle_avanco_metros": 159.7
+    }
+  },
+  {
+    "semana": 9,
+    "dia_inicial_semana": "2026-04-27",
+    "real": "11.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 36,
+      "semana_iso": 18,
+      "previsto_programacao": 42,
+      "controle_avanco_executadas": 11,
+      "controle_avanco_metros": 221.89
+    }
+  },
+  {
+    "semana": 10,
+    "dia_inicial_semana": "2026-05-04",
+    "real": "12.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 37,
+      "semana_iso": 19,
+      "previsto_programacao": 15,
+      "controle_avanco_executadas": 12,
+      "controle_avanco_metros": 294.77
+    }
+  },
+  {
+    "semana": 11,
+    "dia_inicial_semana": "2026-05-11",
+    "real": "3.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 38,
+      "semana_iso": 20,
+      "previsto_programacao": 3,
+      "controle_avanco_executadas": 3,
+      "controle_avanco_metros": 73.55
+    }
+  },
+  {
+    "semana": 12,
+    "dia_inicial_semana": "2026-05-18",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 39,
+      "semana_iso": 21,
+      "previsto_programacao": 0,
+      "controle_avanco_executadas": 0,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 13,
+    "dia_inicial_semana": "2026-05-25",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 40,
+      "semana_iso": 22,
+      "previsto_programacao": 0,
+      "controle_avanco_executadas": 0,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 14,
+    "dia_inicial_semana": "2026-06-01",
+    "real": "2.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 41,
+      "semana_iso": 23,
+      "previsto_programacao": 2,
+      "controle_avanco_executadas": 2,
+      "controle_avanco_metros": 48.3
+    }
+  },
+  {
+    "semana": 15,
+    "dia_inicial_semana": "2026-06-08",
+    "real": "18.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 42,
+      "semana_iso": 24,
+      "previsto_programacao": 19,
+      "controle_avanco_executadas": 18,
+      "controle_avanco_metros": 192.65
+    }
+  },
+  {
+    "semana": 16,
+    "dia_inicial_semana": "2026-06-15",
+    "real": "19.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 43,
+      "semana_iso": 25,
+      "previsto_programacao": 16,
+      "controle_avanco_executadas": 19,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 17,
+    "dia_inicial_semana": "2026-06-22",
+    "real": "11.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 44,
+      "semana_iso": 26,
+      "previsto_programacao": 21,
+      "controle_avanco_executadas": 11,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 18,
+    "dia_inicial_semana": "2026-06-29",
+    "real": "13.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 45,
+      "semana_iso": 27,
+      "previsto_programacao": 18,
+      "controle_avanco_executadas": 13,
+      "controle_avanco_metros": 90.99
+    }
+  },
+  {
+    "semana": 19,
+    "dia_inicial_semana": "2026-07-06",
+    "real": "2.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 46,
+      "semana_iso": 28,
+      "previsto_programacao": 7,
+      "controle_avanco_executadas": 3,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 20,
+    "dia_inicial_semana": "2026-07-13",
+    "real": "7.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 47,
+      "semana_iso": 29,
+      "previsto_programacao": 9,
+      "controle_avanco_executadas": 7,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 21,
+    "dia_inicial_semana": "2026-07-20",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 48,
+      "semana_iso": 30,
+      "previsto_programacao": 8,
+      "controle_avanco_executadas": 0,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 22,
+    "dia_inicial_semana": "2026-07-27",
+    "real": "8.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 49,
+      "semana_iso": 31,
+      "previsto_programacao": 14,
+      "controle_avanco_executadas": 8,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 23,
+    "dia_inicial_semana": "2026-08-03",
+    "real": "17.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 50,
+      "semana_iso": 32,
+      "previsto_programacao": 20,
+      "controle_avanco_executadas": 15,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 24,
+    "dia_inicial_semana": "2026-08-10",
+    "real": "11.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 51,
+      "semana_iso": 33,
+      "previsto_programacao": 20,
+      "controle_avanco_executadas": 11,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 25,
+    "dia_inicial_semana": "2026-08-17",
+    "real": "9.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 52,
+      "semana_iso": 34,
+      "previsto_programacao": 15,
+      "controle_avanco_executadas": 9,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 26,
+    "dia_inicial_semana": "2026-08-24",
+    "real": "6.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 53,
+      "semana_iso": 35,
+      "previsto_programacao": 6,
+      "controle_avanco_executadas": 6,
+      "controle_avanco_metros": 0
+    }
+  },
+  {
+    "semana": 27,
+    "dia_inicial_semana": "2026-08-31",
+    "real": "5.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 54,
+      "semana_iso": 36,
+      "previsto_programacao": 19,
+      "controle_avanco_executadas": 4,
+      "controle_avanco_metros": 66.05
+    }
+  },
+  {
+    "semana": 28,
+    "dia_inicial_semana": "2026-09-07",
+    "real": "12.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 55,
+      "semana_iso": 37,
+      "previsto_programacao": 17,
+      "controle_avanco_executadas": 12,
+      "controle_avanco_metros": 218.85
+    }
+  },
+  {
+    "semana": 29,
+    "dia_inicial_semana": "2026-09-14",
+    "real": "60.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 56,
+      "semana_iso": 38,
+      "previsto_programacao": 33,
+      "controle_avanco_executadas": 62,
+      "controle_avanco_metros": 457.8
+    }
+  },
+  {
+    "semana": 30,
+    "dia_inicial_semana": "2026-09-21",
+    "real": "55.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 57,
+      "semana_iso": 39,
+      "previsto_programacao": 44,
+      "controle_avanco_executadas": 56,
+      "controle_avanco_metros": 403.47
+    }
+  },
+  {
+    "semana": 31,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "27.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 58,
+      "semana_iso": 40,
+      "previsto_programacao": 41,
+      "controle_avanco_executadas": 26,
+      "controle_avanco_metros": 445.95
+    }
+  },
+  {
+    "semana": 32,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "35.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 59,
+      "semana_iso": 41,
+      "previsto_programacao": 34,
+      "controle_avanco_executadas": 36,
+      "controle_avanco_metros": 264.4
+    }
+  },
+  {
+    "semana": 33,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "17.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 60,
+      "semana_iso": 42,
+      "previsto_programacao": 12,
+      "controle_avanco_executadas": 20,
+      "controle_avanco_metros": 116.73
+    }
+  },
+  {
+    "semana": 34,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "7.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 61,
+      "semana_iso": 43,
+      "previsto_programacao": 11,
+      "controle_avanco_executadas": 7,
+      "controle_avanco_metros": 38.8
+    }
+  },
+  {
+    "semana": 35,
+    "dia_inicial_semana": "2026-10-26",
+    "real": "6.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "Painel_Semanal_Estacas_Concreto_S44.xlsx",
+      "aba": "Painel Estacas",
+      "linha": 62,
+      "semana_iso": 44,
+      "previsto_programacao": 11,
+      "controle_avanco_executadas": 5,
+      "controle_avanco_metros": 0
+    }
+  }
+]

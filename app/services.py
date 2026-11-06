@@ -100,7 +100,9 @@ def registrar_realizado(
     dados.real = entrada.real
     dados.equipe = entrada.equipe
     dados.justificativa = justificativa
-    dados.dado_extra = entrada.dado_extra
+    # Só substitui o dado_extra quando enviado: o formulário não o envia e não pode apagá-lo
+    if "dado_extra" in entrada.model_fields_set:
+        dados.dado_extra = entrada.dado_extra
 
     recalcular_obra_atividade(db, base.obra_atividade_id)
     db.commit()

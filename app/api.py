@@ -13,6 +13,7 @@ from app.schemas import (
     AcompanhamentoOut,
     AtividadeIn,
     AtividadeOut,
+    AtividadeUpdate,
     DadosOut,
     ObraAtividadeIn,
     ObraAtividadeOut,
@@ -61,6 +62,18 @@ def listar_atividades(db: Session = Depends(get_db)):
 def criar_atividade(payload: AtividadeIn, db: Session = Depends(get_db)):
     atividade = Atividade(**payload.model_dump())
     db.add(atividade)
+    db.commit()
+    return atividade
+
+
+@router.patch("/atividades/{atividade_id}", response_model=AtividadeOut, tags=["cadastros"])
+def atualizar_atividade(
+    atividade_id: UUID, payload: AtividadeUpdate, db: Session = Depends(get_db)
+):
+    # Só troca o rótulo: valores já lançados não são convertidos para a nova unidade
+    atividade = _obter(db, Atividade, atividade_id)
+    for campo, valor in payload.model_dump(exclude_unset=True, exclude_none=True).items():
+        setattr(atividade, campo, valor)
     db.commit()
     return atividade
 

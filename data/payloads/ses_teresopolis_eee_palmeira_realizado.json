@@ -1,0 +1,507 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2026-03-16",
+    "real": "13.333333",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "B",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "13.333333",
+        "Replanejado Set/26": "13.333333"
+      }
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2026-03-23",
+    "real": "10.582011",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "C",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "10.582011",
+        "Replanejado Set/26": "10.582011"
+      }
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2026-03-30",
+    "real": "16.084656",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "D",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "16.084656",
+        "Replanejado Set/26": "16.084656"
+      }
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2026-04-06",
+    "real": "4.666667",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "E",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.666667",
+        "Replanejado Set/26": "4.666667"
+      }
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2026-04-13",
+    "real": "4.275952",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "F",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.275952",
+        "Replanejado Set/26": "4.275952"
+      }
+    }
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2026-04-20",
+    "real": "4.275952",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "G",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.275952",
+        "Replanejado Set/26": "4.275952"
+      }
+    }
+  },
+  {
+    "semana": 7,
+    "dia_inicial_semana": "2026-04-27",
+    "real": "4.275952",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "H",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.275952",
+        "Replanejado Set/26": "4.275952"
+      }
+    }
+  },
+  {
+    "semana": 8,
+    "dia_inicial_semana": "2026-05-04",
+    "real": "9.275952",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "I",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "9.275952",
+        "Replanejado Set/26": "9.275952"
+      }
+    }
+  },
+  {
+    "semana": 9,
+    "dia_inicial_semana": "2026-05-11",
+    "real": "9.275952",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "J",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "9.275952",
+        "Replanejado Set/26": "9.275952"
+      }
+    }
+  },
+  {
+    "semana": 10,
+    "dia_inicial_semana": "2026-05-18",
+    "real": "1.275952",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "K",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.275952",
+        "Replanejado Set/26": "1.275952"
+      }
+    }
+  },
+  {
+    "semana": 11,
+    "dia_inicial_semana": "2026-05-25",
+    "real": "2.025952",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "L",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.025952",
+        "Replanejado Set/26": "2.025952"
+      }
+    }
+  },
+  {
+    "semana": 12,
+    "dia_inicial_semana": "2026-06-01",
+    "real": "2.025952",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "M",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.025952",
+        "Replanejado Set/26": "2.025952"
+      }
+    }
+  },
+  {
+    "semana": 13,
+    "dia_inicial_semana": "2026-06-08",
+    "real": "0.359286",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "N",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.359286",
+        "Replanejado Set/26": "0.359286"
+      }
+    }
+  },
+  {
+    "semana": 14,
+    "dia_inicial_semana": "2026-06-15",
+    "real": "0.359286",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "O",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.359286",
+        "Replanejado Set/26": "0.359286"
+      }
+    }
+  },
+  {
+    "semana": 15,
+    "dia_inicial_semana": "2026-06-22",
+    "real": "1.859286",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "P",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.859286",
+        "Replanejado Set/26": "1.859286"
+      }
+    }
+  },
+  {
+    "semana": 16,
+    "dia_inicial_semana": "2026-06-29",
+    "real": "1.859286",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "Q",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.859286",
+        "Replanejado Set/26": "1.859286"
+      }
+    }
+  },
+  {
+    "semana": 17,
+    "dia_inicial_semana": "2026-07-06",
+    "real": "1.859286",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "R",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.859286",
+        "Replanejado Set/26": "1.859286"
+      }
+    }
+  },
+  {
+    "semana": 18,
+    "dia_inicial_semana": "2026-07-13",
+    "real": "1.859286",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "S",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.859286",
+        "Replanejado Set/26": "1.859286"
+      }
+    }
+  },
+  {
+    "semana": 19,
+    "dia_inicial_semana": "2026-07-20",
+    "real": "2.700000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "T",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.700000",
+        "Replanejado Set/26": "2.700000"
+      }
+    }
+  },
+  {
+    "semana": 20,
+    "dia_inicial_semana": "2026-07-27",
+    "real": "1.200000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "U",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.085000",
+        "Replanejado Set/26": "1.200000"
+      }
+    }
+  },
+  {
+    "semana": 21,
+    "dia_inicial_semana": "2026-08-03",
+    "real": "0.200000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "V",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.385000",
+        "Replanejado Set/26": "0.200000"
+      }
+    }
+  },
+  {
+    "semana": 22,
+    "dia_inicial_semana": "2026-08-10",
+    "real": "0.400000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "W",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.300000",
+        "Replanejado Set/26": "0.400000"
+      }
+    }
+  },
+  {
+    "semana": 23,
+    "dia_inicial_semana": "2026-08-17",
+    "real": "0.200000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "X",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.333333",
+        "Replanejado Set/26": "0.200000"
+      }
+    }
+  },
+  {
+    "semana": 24,
+    "dia_inicial_semana": "2026-08-24",
+    "real": "0.200000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "Y",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.333333",
+        "Replanejado Set/26": "0.200000"
+      }
+    }
+  },
+  {
+    "semana": 25,
+    "dia_inicial_semana": "2026-08-31",
+    "real": "0.100000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "Z",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.333333",
+        "Replanejado Set/26": "0.200000"
+      }
+    }
+  },
+  {
+    "semana": 26,
+    "dia_inicial_semana": "2026-09-07",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "AA",
+      "previsto_replanejado": {
+        "Replanejado Set/26": "0.503333"
+      }
+    }
+  },
+  {
+    "semana": 27,
+    "dia_inicial_semana": "2026-09-14",
+    "real": "0.300000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "AB",
+      "previsto_replanejado": {
+        "Replanejado Set/26": "2.533333"
+      }
+    }
+  },
+  {
+    "semana": 28,
+    "dia_inicial_semana": "2026-09-21",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "AC",
+      "previsto_replanejado": {
+        "Replanejado Set/26": "2.333333"
+      }
+    }
+  },
+  {
+    "semana": 29,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "AD",
+      "previsto_replanejado": {
+        "Replanejado Set/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 30,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "0.400000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "AE",
+      "previsto_replanejado": {
+        "Replanejado Set/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 31,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "0.450000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "AF",
+      "previsto_replanejado": {
+        "Replanejado Set/26": "0.000000"
+      }
+    }
+  },
+  {
+    "semana": 32,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "0.050000",
+    "equipe": null,
+    "justificativa": "Justificativa: Foram finalizadas as etapas de terraplenagem e assentamento de meio-fio na área da elevatória, restando a pavimentação asfáltica, programado para 26/10 e finalização em 31/10.\nPlano de ação: Replanejamento das atividades.\nOBS: Não foi possível a realização de teste na EEE Palmeira devido a falta de energização. Está pendente por parte da CAIZ a decisão se os teste e comissionamento inicial será realizado com apoio de gerador.",
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_PALMEIRA",
+      "coluna": "AG",
+      "previsto_replanejado": {
+        "Replanejado Set/26": "0.000000"
+      }
+    }
+  }
+]

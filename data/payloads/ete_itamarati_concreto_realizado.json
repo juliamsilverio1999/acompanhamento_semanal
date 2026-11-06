@@ -1,0 +1,67 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "475.337000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "CONCRETO",
+      "coluna": "B:C",
+      "saldo_abertura": {
+        "Acm até 31/08": "407.557000",
+        "Set/26": "67.780000"
+      }
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "37.663000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "CONCRETO",
+      "coluna": "D",
+      "periodo": "01/10 a 10/10"
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "CONCRETO",
+      "coluna": "E"
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "164.930000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "CONCRETO",
+      "coluna": "F"
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2026-10-26",
+    "real": "0.000000",
+    "equipe": null,
+    "justificativa": "Avaliando apenas concreto 40MPa com Xypex.\nApós fechamento do cronograma LB2 considerado como previsto, e alinhado com cliente, houve um replanejamento de sequencia das atividades, por conta de alterações de projetos.",
+    "dado_extra": {
+      "origem": "AS - ETE ITAMARATI - S44 OUT_26.xlsx",
+      "aba": "CONCRETO",
+      "coluna": "G"
+    }
+  }
+]

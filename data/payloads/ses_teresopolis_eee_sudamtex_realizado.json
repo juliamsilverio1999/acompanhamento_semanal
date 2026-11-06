@@ -1,0 +1,466 @@
+[
+  {
+    "semana": 1,
+    "dia_inicial_semana": "2026-04-06",
+    "real": "3.518868",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "B",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "3.518868",
+        "Replanejado Set/26": "3.518868"
+      }
+    }
+  },
+  {
+    "semana": 2,
+    "dia_inicial_semana": "2026-04-13",
+    "real": "11.270440",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "C",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "11.270440",
+        "Replanejado Set/26": "11.270440"
+      }
+    }
+  },
+  {
+    "semana": 3,
+    "dia_inicial_semana": "2026-04-20",
+    "real": "4.679245",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "D",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.679245",
+        "Replanejado Set/26": "4.679245"
+      }
+    }
+  },
+  {
+    "semana": 4,
+    "dia_inicial_semana": "2026-04-27",
+    "real": "5.031447",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "E",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "5.031447",
+        "Replanejado Set/26": "5.031447"
+      }
+    }
+  },
+  {
+    "semana": 5,
+    "dia_inicial_semana": "2026-05-04",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "F",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 6,
+    "dia_inicial_semana": "2026-05-11",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "G",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 7,
+    "dia_inicial_semana": "2026-05-18",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "H",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 8,
+    "dia_inicial_semana": "2026-05-25",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "I",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 9,
+    "dia_inicial_semana": "2026-06-01",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "J",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 10,
+    "dia_inicial_semana": "2026-06-08",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "K",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 11,
+    "dia_inicial_semana": "2026-06-15",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "L",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 12,
+    "dia_inicial_semana": "2026-06-22",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "M",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 13,
+    "dia_inicial_semana": "2026-06-29",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "N",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 14,
+    "dia_inicial_semana": "2026-07-06",
+    "real": "1.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "O",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.618182",
+        "Replanejado Set/26": "1.618182"
+      }
+    }
+  },
+  {
+    "semana": 15,
+    "dia_inicial_semana": "2026-07-13",
+    "real": "7.618182",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "P",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "7.618182",
+        "Replanejado Set/26": "7.618182"
+      }
+    }
+  },
+  {
+    "semana": 16,
+    "dia_inicial_semana": "2026-07-20",
+    "real": "4.250000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "Q",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.250000",
+        "Replanejado Set/26": "4.250000"
+      }
+    }
+  },
+  {
+    "semana": 17,
+    "dia_inicial_semana": "2026-07-27",
+    "real": "1.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "R",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.937500",
+        "Replanejado Set/26": "1.000000"
+      }
+    }
+  },
+  {
+    "semana": 18,
+    "dia_inicial_semana": "2026-08-03",
+    "real": "3.750000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "S",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.937500",
+        "Replanejado Set/26": "3.750000"
+      }
+    }
+  },
+  {
+    "semana": 19,
+    "dia_inicial_semana": "2026-08-10",
+    "real": "3.250000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "T",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "1.937500",
+        "Replanejado Set/26": "3.250000"
+      }
+    }
+  },
+  {
+    "semana": 20,
+    "dia_inicial_semana": "2026-08-17",
+    "real": "2.925000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "U",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "6.637500",
+        "Replanejado Set/26": "2.925000"
+      }
+    }
+  },
+  {
+    "semana": 21,
+    "dia_inicial_semana": "2026-08-24",
+    "real": "2.220000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "V",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.800000",
+        "Replanejado Set/26": "2.220000"
+      }
+    }
+  },
+  {
+    "semana": 22,
+    "dia_inicial_semana": "2026-08-31",
+    "real": "2.000000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "W",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.800000",
+        "Replanejado Set/26": "3.426250"
+      }
+    }
+  },
+  {
+    "semana": 23,
+    "dia_inicial_semana": "2026-09-07",
+    "real": "1.350000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "X",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "5.766667",
+        "Replanejado Set/26": "1.326250"
+      }
+    }
+  },
+  {
+    "semana": 24,
+    "dia_inicial_semana": "2026-09-14",
+    "real": "0.450000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "Y",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.266667",
+        "Replanejado Set/26": "1.492917"
+      }
+    }
+  },
+  {
+    "semana": 25,
+    "dia_inicial_semana": "2026-09-21",
+    "real": "1.200000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "Z",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "4.266667",
+        "Replanejado Set/26": "1.992917"
+      }
+    }
+  },
+  {
+    "semana": 26,
+    "dia_inicial_semana": "2026-09-28",
+    "real": "2.050000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "AA",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.700000",
+        "Replanejado Set/26": "3.666667"
+      }
+    }
+  },
+  {
+    "semana": 27,
+    "dia_inicial_semana": "2026-10-05",
+    "real": "1.500000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "AB",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.700000",
+        "Replanejado Set/26": "4.050000"
+      }
+    }
+  },
+  {
+    "semana": 28,
+    "dia_inicial_semana": "2026-10-12",
+    "real": "1.350000",
+    "equipe": null,
+    "justificativa": null,
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "AC",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "0.900000",
+        "Replanejado Set/26": "6.550000"
+      }
+    }
+  },
+  {
+    "semana": 29,
+    "dia_inicial_semana": "2026-10-19",
+    "real": "3.250000",
+    "equipe": null,
+    "justificativa": "Justificativa: Produção abaixo do previsto devido ao grande volume de chuva.\nPlano de ação: Replanejamento das atividades.",
+    "dado_extra": {
+      "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+      "aba": "EEE_SUDAMTEX",
+      "coluna": "AD",
+      "previsto_replanejado": {
+        "Replanejado Ago/26": "2.400000",
+        "Replanejado Set/26": "6.550000"
+      }
+    }
+  }
+]

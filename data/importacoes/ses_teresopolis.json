@@ -1,0 +1,104 @@
+{
+  "obra": "OP074 - SES Teresópolis",
+  "origem": "PREVISTO X REALIZADO _ SES_TERESÓPOLIS_CURVAS 19-10 a 24-10.xlsx",
+  "prefixo_payload": "ses_teresopolis",
+  "data_corte": "2026-10-19",
+  "decisoes": [
+    "previsto_semana = previsto original (PC / Previsto / Percentual Previsto); replanejados ficam no dado_extra",
+    "prod_orcada_media_equipe_dia vazia: índice não calculado",
+    "km convertido para m (fator 1000); fração convertida para % (fator 100)",
+    "dias trabalhados: 5 fixo (DIAS_TRABALHADOS_SEMANA); dias reais no dado_extra",
+    "TTS: coluna ACUM. (30/12/2025) vira a semana 1 como saldo de abertura",
+    "realizado até a semana da data de corte; semanas sem previsto dentro do intervalo entram com 0"
+  ],
+  "atividades": [
+    {
+      "atividade": "Rede Coletora + Linha de Recalque",
+      "obra_atividade_id": "cb25c1de-a6c1-468c-9d31-ea0c73428fee",
+      "aba": "REDE COLETORA+LR",
+      "linha_datas": 30,
+      "coluna_inicial": 2,
+      "fator": 1000,
+      "linhas": {"previsto": 32, "real": 36, "equipe": 46, "equipe_prevista": 47, "dias_trabalhados_real": 48},
+      "replanejados": {"Novo Orçamento Jan/26": 33, "Replanejado Jul/26": 34, "Replanejado Set/26": 35},
+      "justificativa": "Justificativa: Não foi possível execução da LR Golfe devido a realização de testes de carga na rede.\nPlano de ação: Previsão de conclusão:\n- 30 m LR Golfe após conclusão da hidromecânica da EE Golfe;\n- 25 m LR Palmeira (31/10)."
+    },
+    {
+      "atividade": "Interceptor",
+      "obra_atividade_id": "ebb91b0b-76d8-475f-8803-051285c3a13e",
+      "aba": "INTERCEPTOR",
+      "linha_datas": 36,
+      "coluna_inicial": 2,
+      "fator": 1000,
+      "linhas": {"previsto": 38, "real": 40, "equipe": 47, "equipe_prevista": 48, "dias_trabalhados_real": 49},
+      "replanejados": {"Replanejado Ago/26": 39},
+      "justificativa": "Justificativa: Execução de desmonte de rocha na margem esquerda 03. Previsão de conclusão (30/10).\nPlano de ação: Replanejamento de atividades. Previsão de conclusão (30/10)."
+    },
+    {
+      "atividade": "TTS Rio",
+      "obra_atividade_id": "1430bf2d-66b8-4750-ba2d-848df8a01651",
+      "aba": "TTS_RIO",
+      "linha_datas": 36,
+      "coluna_inicial": 2,
+      "fator": 1,
+      "linhas": {"previsto": 38, "real": 40},
+      "replanejados": {"Replanejado Ago/26": 39},
+      "justificativa": "Plano de ação: Aguardando a definição da CAIZ quanto a TTS 26A."
+    },
+    {
+      "atividade": "TTS Rua + Calha",
+      "obra_atividade_id": "4afbe425-b05c-417a-bb7f-fc2698e0ea50",
+      "aba": "TTS_RUA+CALHA",
+      "linha_datas": 36,
+      "coluna_inicial": 2,
+      "fator": 1,
+      "linhas": {"previsto": 38, "real": 40},
+      "replanejados": {"Replanejado Ago/26": 39},
+      "justificativa": "Plano de ação: Aguardando liberação da TTS 26, TTS 93 e TTS 114 que estão em análise."
+    },
+    {
+      "atividade": "EEE Palmeira",
+      "obra_atividade_id": "2c335960-eb32-4576-804b-7d92830ebd48",
+      "aba": "EEE_PALMEIRA",
+      "linha_datas": 36,
+      "coluna_inicial": 2,
+      "fator": 100,
+      "linhas": {"previsto": 38, "real": 41},
+      "replanejados": {"Replanejado Ago/26": 39, "Replanejado Set/26": 40},
+      "justificativa": "Justificativa: Foram finalizadas as etapas de terraplenagem e assentamento de meio-fio na área da elevatória, restando a pavimentação asfáltica, programado para 26/10 e finalização em 31/10.\nPlano de ação: Replanejamento das atividades.\nOBS: Não foi possível a realização de teste na EEE Palmeira devido a falta de energização. Está pendente por parte da CAIZ a decisão se os teste e comissionamento inicial será realizado com apoio de gerador."
+    },
+    {
+      "atividade": "EEE Sudamtex",
+      "obra_atividade_id": "8eed5b79-a2ba-49de-8058-881e4dc30fbe",
+      "aba": "EEE_SUDAMTEX",
+      "linha_datas": 36,
+      "coluna_inicial": 2,
+      "fator": 100,
+      "linhas": {"previsto": 38, "real": 41},
+      "replanejados": {"Replanejado Ago/26": 39, "Replanejado Set/26": 40},
+      "justificativa": "Justificativa: Produção abaixo do previsto devido ao grande volume de chuva.\nPlano de ação: Replanejamento das atividades."
+    },
+    {
+      "atividade": "EEE Golfe",
+      "obra_atividade_id": "76fb1738-a6b4-4823-8950-4d42bec3aee1",
+      "aba": "EEE_GOLFE",
+      "linha_datas": 36,
+      "coluna_inicial": 2,
+      "fator": 100,
+      "linhas": {"previsto": 38, "real": 41},
+      "replanejados": {"Replanejado Ago/26": 39, "Replanejado Set/26": 40},
+      "justificativa": "Justificativa: Foi necessário alteração no barrilete de entrada das bombas para facilitar a montagem e possibilitar a manutenção futura, o que acarretou em atraso na execução.\nPlano de ação: Replanejamento das atividades.\nOBS: Na Elevatória Golfe e Greenfruit está pendente a finalização da rede elétrica."
+    },
+    {
+      "atividade": "EEE Greenfruit",
+      "obra_atividade_id": "700d8df2-3d40-42ba-924d-e7577c60719e",
+      "aba": "EEE_GREENFRUIT",
+      "linha_datas": 32,
+      "coluna_inicial": 2,
+      "fator": 100,
+      "linhas": {"previsto": 34, "real": 37},
+      "replanejados": {"Replanejado Ago/26": 35, "Replanejado Set/26": 36},
+      "justificativa": "Justificativa: Serviço da Oficina ao lado em fase de acabamento o que ocasionou o atraso das atividades. A parte civil da sala elétrica teve um avanço considerável, ficando pendente apenas a instalação do portão de acesso.\nPlano de ação: Replanejamento das atividades.\nOBS: Na Elevatória Golfe e Greenfruit está pendente a finalização da rede elétrica."
+    }
+  ]
+}
